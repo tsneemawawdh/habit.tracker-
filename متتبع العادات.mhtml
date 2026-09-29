@@ -1,0 +1,2753 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/LENOVO/Downloads/%D8%B5%D8%B1%D9%8A%D8%B1%20%D8%AF%D9%88%D9%86%20%D8%B6%D8%AC%D9%8A%D8%AC%F0%9F%92%AA%F0%9F%8E%93.html
+Subject: =?utf-8?Q?=D9=85=D8=AA=D8=AA=D8=A8=D8=B9=20=D8=A7=D9=84=D8=B9=D8=A7=D8=AF?=
+ =?utf-8?Q?=D8=A7=D8=AA?=
+Date: Tue, 29 Sep 2026 14:27:25 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--HHo4nauaptE5qi0E7WqzfRBqAX4JrR1G9o2X0p0wNi----"
+
+
+------MultipartBoundary--HHo4nauaptE5qi0E7WqzfRBqAX4JrR1G9o2X0p0wNi----
+Content-Type: text/html
+Content-ID: <frame-38C2798ED92EF34F727FB456BC31E0D8@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/LENOVO/Downloads/%D8%B5%D8%B1%D9%8A%D8%B1%20%D8%AF%D9%88%D9%86%20%D8%B6%D8%AC%D9%8A%D8%AC%F0%9F%92%AA%F0%9F%8E%93.html
+
+<!DOCTYPE html><!-- saved from url=3D(0058)file:///C:/Users/LENOVO/Download=
+s/habit_tracker%20(8).html --><html lang=3D"ar" dir=3D"rtl"><head><meta htt=
+p-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-44081552-ff63-4c2b-b669-c=
+af7058f33f7@mhtml.blink" />
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+<title>=D9=85=D8=AA=D8=AA=D8=A8=D8=B9 =D8=A7=D9=84=D8=B9=D8=A7=D8=AF=D8=A7=
+=D8=AA</title>
+<link href=3D"file:///C:/Users/LENOVO/Downloads/%D9%85%D8%AA%D8%AA%D8%A8%D8=
+%B9%20%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA_files/css2" rel=3D"stylesh=
+eet">
+
+</head>
+<body>
+
+<!-- Header -->
+<div class=3D"header">
+  <div>
+    <div class=3D"header-title">=D8=B5=D8=B1=D9=8A=D8=B1 =D8=AF=D9=88=D9=86=
+ =D8=B6=D8=AC=D9=8A=D8=AC=F0=9F=92=AA</div>
+    <div class=3D"header-month" id=3D"monthLabel">=D9=86=D9=88=D9=81=D9=85=
+=D8=A8=D8=B1 2024</div>
+  </div>
+  <div class=3D"monthly-circle-wrap">
+    <svg id=3D"monthCircleSvg" width=3D"100" height=3D"100" viewBox=3D"0 0 =
+100 100">
+      <!-- Outer filled ring background -->
+      <circle cx=3D"50" cy=3D"50" r=3D"46" fill=3D"#6DBF4A" opacity=3D"0.35=
+"></circle>
+      <!-- Track -->
+      <circle cx=3D"50" cy=3D"50" r=3D"38" fill=3D"none" stroke=3D"rgba(255=
+,255,255,0.2)" stroke-width=3D"12"></circle>
+      <!-- Progress arc -->
+      <circle id=3D"monthCircleArc" cx=3D"50" cy=3D"50" r=3D"38" fill=3D"no=
+ne" stroke=3D"#FFAB91" stroke-width=3D"12" stroke-dasharray=3D"74.02 238.76=
+" stroke-linecap=3D"round" transform=3D"rotate(-90 50 50)"></circle>
+      <!-- Inner white circle -->
+      <circle cx=3D"50" cy=3D"50" r=3D"26" fill=3D"white" opacity=3D"0.95">=
+</circle>
+      <!-- Pct text -->
+      <text id=3D"monthCircleText" x=3D"50" y=3D"50" text-anchor=3D"middle"=
+ dominant-baseline=3D"central" font-size=3D"13" font-weight=3D"800" fill=3D=
+"#D94040" font-family=3D"Tajawal,Inter,sans-serif">31%</text>
+    </svg>
+    <div class=3D"monthly-circle-lbl">=D8=A7=D9=84=D8=A5=D9=86=D8=AC=D8=A7=
+=D8=B2 =D8=A7=D9=84=D8=B4=D9=87=D8=B1=D9=8A</div>
+  </div>
+</div>
+
+<!-- Stats -->
+<div class=3D"stats">
+  <div class=3D"stat-card"><div class=3D"stat-value" id=3D"statHabits">25</=
+div><div class=3D"stat-label">=D8=B9=D8=AF=D8=AF =D8=A7=D9=84=D8=B9=D8=A7=
+=D8=AF=D8=A7=D8=AA</div></div>
+  <div class=3D"stat-card"><div class=3D"stat-value green" id=3D"statDone">=
+232</div><div class=3D"stat-label">=E2=9C=93 =D9=85=D9=86=D8=AC=D8=B2</div>=
+</div>
+  <div class=3D"stat-card"><div class=3D"stat-value" style=3D"color:var(--r=
+ed)" id=3D"statNotDone">518</div><div class=3D"stat-label">=E2=9C=97 =D8=BA=
+=D9=8A=D8=B1 =D9=85=D9=86=D8=AC=D8=B2</div></div>
+  <div class=3D"stat-card"><div class=3D"stat-value" style=3D"color:var(--p=
+urple)" id=3D"statStreak">8</div><div class=3D"stat-label">=F0=9F=94=A5 =D8=
+=A3=D9=81=D8=B6=D9=84 =D8=B3=D9=84=D8=B3=D9=84=D8=A9</div></div>
+</div>
+
+<!-- Toolbar -->
+<div class=3D"toolbar">
+  <button class=3D"btn-toolbar green-btn">=E2=9E=95 =D8=A5=D8=B6=D8=A7=D9=
+=81=D8=A9 =D8=B9=D8=A7=D8=AF=D8=A9</button>
+  <button class=3D"btn-toolbar" id=3D"editModeBtn">=E2=9C=8F=EF=B8=8F =D8=
+=AA=D8=B9=D8=AF=D9=8A=D9=84 =D8=A7=D9=84=D8=B9=D8=A7=D8=AF=D8=A7=D8=AA</but=
+ton>
+  <button class=3D"btn-sound">=F0=9F=8E=B5 =D8=B5=D9=88=D8=AA =D8=A7=D9=84=
+=D8=AA=D9=86=D8=A8=D9=8A=D9=87</button>
+</div>
+
+<!-- Tracker -->
+<div class=3D"tracker-card">
+  <div class=3D"table-wrapper">
+    <table id=3D"habitTable">
+      <thead id=3D"tableHead"><tr class=3D"week-header"><th></th><th colspa=
+n=3D"7"><span class=3D"week-label">Week 1</span></th><th colspan=3D"7"><spa=
+n class=3D"week-label">Week 2</span></th><th colspan=3D"7"><span class=3D"w=
+eek-label">Week 3</span></th><th colspan=3D"9"><span class=3D"week-label">W=
+eek 4</span></th></tr><tr class=3D"day-header"><th></th><th><div class=3D"d=
+ay-num">1</div><div class=3D"day-name">We</div></th><th><div class=3D"day-n=
+um">2</div><div class=3D"day-name">Th</div></th><th><div class=3D"day-num">=
+3</div><div class=3D"day-name">Fr</div></th><th class=3D"weekend"><div clas=
+s=3D"day-num">4</div><div class=3D"day-name">Sa</div></th><th class=3D"week=
+end"><div class=3D"day-num">5</div><div class=3D"day-name">Su</div></th><th=
+><div class=3D"day-num">6</div><div class=3D"day-name">Mo</div></th><th><di=
+v class=3D"day-num">7</div><div class=3D"day-name">Tu</div></th><th><div cl=
+ass=3D"day-num">8</div><div class=3D"day-name">We</div></th><th><div class=
+=3D"day-num">9</div><div class=3D"day-name">Th</div></th><th><div class=3D"=
+day-num">10</div><div class=3D"day-name">Fr</div></th><th class=3D"weekend"=
+><div class=3D"day-num">11</div><div class=3D"day-name">Sa</div></th><th cl=
+ass=3D"weekend"><div class=3D"day-num">12</div><div class=3D"day-name">Su</=
+div></th><th><div class=3D"day-num">13</div><div class=3D"day-name">Mo</div=
+></th><th><div class=3D"day-num">14</div><div class=3D"day-name">Tu</div></=
+th><th><div class=3D"day-num">15</div><div class=3D"day-name">We</div></th>=
+<th><div class=3D"day-num">16</div><div class=3D"day-name">Th</div></th><th=
+><div class=3D"day-num">17</div><div class=3D"day-name">Fr</div></th><th cl=
+ass=3D"weekend"><div class=3D"day-num">18</div><div class=3D"day-name">Sa</=
+div></th><th class=3D"weekend"><div class=3D"day-num">19</div><div class=3D=
+"day-name">Su</div></th><th><div class=3D"day-num">20</div><div class=3D"da=
+y-name">Mo</div></th><th><div class=3D"day-num">21</div><div class=3D"day-n=
+ame">Tu</div></th><th><div class=3D"day-num">22</div><div class=3D"day-name=
+">We</div></th><th><div class=3D"day-num">23</div><div class=3D"day-name">T=
+h</div></th><th><div class=3D"day-num">24</div><div class=3D"day-name">Fr</=
+div></th><th class=3D"weekend"><div class=3D"day-num">25</div><div class=3D=
+"day-name">Sa</div></th><th class=3D"weekend"><div class=3D"day-num">26</di=
+v><div class=3D"day-name">Su</div></th><th><div class=3D"day-num">27</div><=
+div class=3D"day-name">Mo</div></th><th><div class=3D"day-num">28</div><div=
+ class=3D"day-name">Tu</div></th><th><div class=3D"day-num">29</div><div cl=
+ass=3D"day-name">We</div></th><th><div class=3D"day-num">30</div><div class=
+=3D"day-name">Th</div></th></tr></thead>
+      <tbody id=3D"tableBody"><tr class=3D"habit-row"><td class=3D"habit-na=
+me-col"><div class=3D"name-wrap"><button class=3D"btn-habit-del" title=3D"=
+=D8=AD=D8=B0=D9=81">=F0=9F=97=91</button><button class=3D"btn-habit-edit" t=
+itle=3D"=D8=AA=D8=B9=D8=AF=D9=8A=D9=84 =D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=
+=9C=8F=EF=B8=8F</button><span class=3D"name-text" title=3D"=D8=A7=D9=84=D8=
+=A7=D8=B3=D8=AA=D9=8A=D9=82=D8=A7=D8=B8 =D8=A8=D8=A7=D9=83=D8=B1=D8=A7 5:0=
+=E2=8F=B0">=D8=A7=D9=84=D8=A7=D8=B3=D8=AA=D9=8A=D9=82=D8=A7=D8=B8 =D8=A8=D8=
+=A7=D9=83=D8=B1=D8=A7 5:0=E2=8F=B0</span></div></td><td class=3D"check-cell=
+ done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell=
+"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><di=
+v class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-c=
+ell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-c=
+ell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D=
+"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"chec=
+k-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"chec=
+k-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cel=
+l"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-=
+cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell =
+weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"che=
+ck-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-ce=
+ll"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell do=
+ne"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><=
+div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><=
+div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend=
+-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check=
+-cell weekend-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td c=
+lass=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td c=
+lass=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"c=
+heck-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"c=
+heck-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td cl=
+ass=3D"check-cell weekend-cell done"><div class=3D"check-box">=E2=9C=93</di=
+v></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></t=
+d><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td=
+ class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td clas=
+s=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td></tr><tr clas=
+s=3D"habit-row"><td class=3D"habit-name-col"><div class=3D"name-wrap"><butt=
+on class=3D"btn-habit-del" title=3D"=D8=AD=D8=B0=D9=81">=F0=9F=97=91</butto=
+n><button class=3D"btn-habit-edit" title=3D"=D8=AA=D8=B9=D8=AF=D9=8A=D9=84 =
+=D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=8F=EF=B8=8F</button><span class=3D"n=
+ame-text" title=3D"=D8=AA=D9=81=D8=B1=D9=8A=D8=B4 =D8=A7=D8=B3=D9=86=D8=A7=
+=D9=86 =F0=9F=AA=A5=F0=9F=A7=BC">=D8=AA=D9=81=D8=B1=D9=8A=D8=B4 =D8=A7=D8=
+=B3=D9=86=D8=A7=D9=86 =F0=9F=AA=A5=F0=9F=A7=BC</span></div></td><td class=
+=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</di=
+v></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</di=
+v></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></t=
+d><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></t=
+d><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td=
+ class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td clas=
+s=3D"check-cell weekend-cell done"><div class=3D"check-box">=E2=9C=93</div>=
+</td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td cl=
+ass=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></t=
+d><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93<=
+/div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div>=
+</td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div>=
+</td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td>=
+<td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td c=
+lass=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</di=
+v></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></t=
+d><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></t=
+d><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></t=
+d><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td></t=
+r><tr class=3D"habit-row"><td class=3D"habit-name-col"><div class=3D"name-w=
+rap"><button class=3D"btn-habit-del" title=3D"=D8=AD=D8=B0=D9=81">=F0=9F=97=
+=91</button><button class=3D"btn-habit-edit" title=3D"=D8=AA=D8=B9=D8=AF=D9=
+=8A=D9=84 =D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=8F=EF=B8=8F</button><span =
+class=3D"name-text" title=3D"10 .=D8=B3=D8=A7=D8=B9=D8=A7=D8=AA =D8=AF=D8=
+=B1=D8=A7=D8=B3=D8=A9  =F0=9F=93=96">10 .=D8=B3=D8=A7=D8=B9=D8=A7=D8=AA =D8=
+=AF=D8=B1=D8=A7=D8=B3=D8=A9  =F0=9F=93=96</span></div></td><td class=3D"che=
+ck-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"che=
+ck-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"che=
+ck-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"che=
+ck-cell weekend-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td=
+ class=3D"check-cell weekend-cell done"><div class=3D"check-box">=E2=9C=93<=
+/div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div>=
+</td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div>=
+</td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td>=
+<td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td c=
+lass=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</di=
+v></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></t=
+d><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td=
+ class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td clas=
+s=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check=
+-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td cl=
+ass=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"c=
+heck-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"c=
+heck-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td cl=
+ass=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></t=
+d><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td=
+ class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td clas=
+s=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell"><div class=3D"check-box">=E2=9C=93</div></td></tr><tr class=3D"=
+habit-row"><td class=3D"habit-name-col"><div class=3D"name-wrap"><button cl=
+ass=3D"btn-habit-del" title=3D"=D8=AD=D8=B0=D9=81">=F0=9F=97=91</button><bu=
+tton class=3D"btn-habit-edit" title=3D"=D8=AA=D8=B9=D8=AF=D9=8A=D9=84 =D8=
+=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=8F=EF=B8=8F</button><span class=3D"name=
+-text" title=3D"=D8=A7=D9=86=D8=AC=D8=A7=D8=B2 =D8=A7=D9=84=D8=A7=D9=87=D8=
+=AF=D8=A7=D9=81  =F0=9F=93=8B=F0=9F=8E=AF">=D8=A7=D9=86=D8=AC=D8=A7=D8=B2 =
+=D8=A7=D9=84=D8=A7=D9=87=D8=AF=D8=A7=D9=81  =F0=9F=93=8B=F0=9F=8E=AF</span>=
+</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93=
+</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93=
+</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93=
+</div></td><td class=3D"check-cell weekend-cell done"><div class=3D"check-b=
+ox">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell done"><div cla=
+ss=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div cla=
+ss=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div cla=
+ss=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div cla=
+ss=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D=
+"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"chec=
+k-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"=
+><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div=
+ class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div clas=
+s=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"=
+check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check=
+-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box"=
+>=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"ch=
+eck-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div cla=
+ss=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D=
+"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=3D=
+"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"chec=
+k-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box=
+">=E2=9C=93</div></td></tr><tr class=3D"habit-row"><td class=3D"habit-name-=
+col"><div class=3D"name-wrap"><button class=3D"btn-habit-del" title=3D"=D8=
+=AD=D8=B0=D9=81">=F0=9F=97=91</button><button class=3D"btn-habit-edit" titl=
+e=3D"=D8=AA=D8=B9=D8=AF=D9=8A=D9=84 =D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=
+=8F=EF=B8=8F</button><span class=3D"name-text" title=3D"=D8=A7=D8=B3=D8=AA=
+=D9=83=D8=B4=D8=A7=D9=81 =D9=85=D9=87=D8=A7=D8=B1=D8=A7=D8=AA =F0=9F=A7=B6=
+=F0=9F=8E=A8=F0=9F=8E=BE=F0=9F=A5=8B=F0=9F=8E=B9=F0=9F=97=A1=EF=B8=8F">=D8=
+=A7=D8=B3=D8=AA=D9=83=D8=B4=D8=A7=D9=81 =D9=85=D9=87=D8=A7=D8=B1=D8=A7=D8=
+=AA =F0=9F=A7=B6=F0=9F=8E=A8=F0=9F=8E=BE=F0=9F=A5=8B=F0=9F=8E=B9=F0=9F=97=
+=A1=EF=B8=8F</span></div></td><td class=3D"check-cell done"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell done"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-=
+cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-=
+cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-=
+cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-=
+cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-=
+cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"=
+><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weeke=
+nd-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-ce=
+ll weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check=
+-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell=
+"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><di=
+v class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div cla=
+ss=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell">=
+<div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weeken=
+d-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cel=
+l"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell don=
+e"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"=
+><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weeke=
+nd-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"che=
+ck-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"che=
+ck-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-ce=
+ll"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><=
+div class=3D"check-box">=E2=9C=93</div></td></tr><tr class=3D"habit-row"><t=
+d class=3D"habit-name-col"><div class=3D"name-wrap"><button class=3D"btn-ha=
+bit-del" title=3D"=D8=AD=D8=B0=D9=81">=F0=9F=97=91</button><button class=3D=
+"btn-habit-edit" title=3D"=D8=AA=D8=B9=D8=AF=D9=8A=D9=84 =D8=A7=D9=84=D8=A7=
+=D8=B3=D9=85">=E2=9C=8F=EF=B8=8F</button><span class=3D"name-text" title=3D=
+"=D8=AA=D8=B1=D8=AA=D9=8A=D8=A8 =D8=A7=D9=84=D8=BA=D8=B1=D9=81=D8=A9=F0=9F=
+=AA=A3=F0=9F=A7=B9=F0=9F=A7=BD">=D8=AA=D8=B1=D8=AA=D9=8A=D8=A8 =D8=A7=D9=84=
+=D8=BA=D8=B1=D9=81=D8=A9=F0=9F=AA=A3=F0=9F=A7=B9=F0=9F=A7=BD</span></div></=
+td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></=
+td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></=
+td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></=
+td><td class=3D"check-cell weekend-cell done"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell weekend-cell done"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"=
+><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"=
+><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"=
+><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"=
+><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"=
+><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"=
+><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weeke=
+nd-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"che=
+ck-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td clas=
+s=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td clas=
+s=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td clas=
+s=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td clas=
+s=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td></tr><tr clas=
+s=3D"habit-row"><td class=3D"habit-name-col"><div class=3D"name-wrap"><butt=
+on class=3D"btn-habit-del" title=3D"=D8=AD=D8=B0=D9=81">=F0=9F=97=91</butto=
+n><button class=3D"btn-habit-edit" title=3D"=D8=AA=D8=B9=D8=AF=D9=8A=D9=84 =
+=D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=8F=EF=B8=8F</button><span class=3D"n=
+ame-text" title=3D"=D8=A7=D9=83=D9=84 =D8=B5=D8=AD=D9=8A =F0=9F=A5=91=F0=9F=
+=98=8B=F0=9F=AB=90=F0=9F=A5=9D">=D8=A7=D9=83=D9=84 =D8=B5=D8=AD=D9=8A =F0=
+=9F=A5=91=F0=9F=98=8B=F0=9F=AB=90=F0=9F=A5=9D</span></div></td><td class=3D=
+"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D=
+"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D=
+"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D=
+"check-cell weekend-cell done"><div class=3D"check-box">=E2=9C=93</div></td=
+><td class=3D"check-cell weekend-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box=
+">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</di=
+v></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+/tr><tr class=3D"habit-row"><td class=3D"habit-name-col"><div class=3D"name=
+-wrap"><button class=3D"btn-habit-del" title=3D"=D8=AD=D8=B0=D9=81">=F0=9F=
+=97=91</button><button class=3D"btn-habit-edit" title=3D"=D8=AA=D8=B9=D8=AF=
+=D9=8A=D9=84 =D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=8F=EF=B8=8F</button><sp=
+an class=3D"name-text" title=3D"=D8=AA=D9=82=D9=84=D9=8A=D9=84 =D8=B3=D8=A7=
+=D8=B9=D8=A7=D8=AA 1h=F0=9F=93=B5">=D8=AA=D9=82=D9=84=D9=8A=D9=84 =D8=B3=D8=
+=A7=D8=B9=D8=A7=D8=AA 1h=F0=9F=93=B5</span></div></td><td class=3D"check-ce=
+ll done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-ce=
+ll done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-ce=
+ll done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-ce=
+ll weekend-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td clas=
+s=3D"check-cell weekend-cell done"><div class=3D"check-box">=E2=9C=93</div>=
+</td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div>=
+</td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div>=
+</td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div>=
+</td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div>=
+</td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td>=
+<td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</d=
+iv></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td cl=
+ass=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></t=
+d><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93<=
+/div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div>=
+</td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td>=
+<td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td c=
+lass=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"c=
+heck-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td cl=
+ass=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></t=
+d><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td=
+ class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td clas=
+s=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell"><div class=3D"check-box">=E2=9C=93</div></td></tr><tr class=3D"=
+habit-row"><td class=3D"habit-name-col"><div class=3D"name-wrap"><button cl=
+ass=3D"btn-habit-del" title=3D"=D8=AD=D8=B0=D9=81">=F0=9F=97=91</button><bu=
+tton class=3D"btn-habit-edit" title=3D"=D8=AA=D8=B9=D8=AF=D9=8A=D9=84 =D8=
+=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=8F=EF=B8=8F</button><span class=3D"name=
+-text" title=3D"=D8=AA=D9=82=D9=84=D9=8A=D9=84 =D8=A7=D9=84=D9=83=D8=A7=D9=
+=81=D8=A7=D9=8A=D9=86=E2=98=95=F0=9F=8D=AD=F0=9F=8D=AB=F0=9F=A7=8B">=D8=AA=
+=D9=82=D9=84=D9=8A=D9=84 =D8=A7=D9=84=D9=83=D8=A7=D9=81=D8=A7=D9=8A=D9=86=
+=E2=98=95=F0=9F=8D=AD=F0=9F=8D=AB=F0=9F=A7=8B</span></div></td><td class=3D=
+"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D=
+"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D=
+"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D=
+"check-cell weekend-cell done"><div class=3D"check-box">=E2=9C=93</div></td=
+><td class=3D"check-cell weekend-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box=
+">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</di=
+v></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+/tr><tr class=3D"habit-row"><td class=3D"habit-name-col"><div class=3D"name=
+-wrap"><button class=3D"btn-habit-del" title=3D"=D8=AD=D8=B0=D9=81">=F0=9F=
+=97=91</button><button class=3D"btn-habit-edit" title=3D"=D8=AA=D8=B9=D8=AF=
+=D9=8A=D9=84 =D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=8F=EF=B8=8F</button><sp=
+an class=3D"name-text" title=3D"=D8=AF=D8=B4 =D8=A8=D8=A7=D8=B1=D8=AF =F0=
+=9F=9A=BF">=D8=AF=D8=B4 =D8=A8=D8=A7=D8=B1=D8=AF =F0=9F=9A=BF</span></div><=
+/td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell weekend-cell done"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell weekend-cell done"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"che=
+ck-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div clas=
+s=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"=
+check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check=
+-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box"=
+>=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box=
+">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td></tr><tr class=3D"habit-row"><td class=3D"habit-name-col"><div cla=
+ss=3D"name-wrap"><button class=3D"btn-habit-del" title=3D"=D8=AD=D8=B0=D9=
+=81">=F0=9F=97=91</button><button class=3D"btn-habit-edit" title=3D"=D8=AA=
+=D8=B9=D8=AF=D9=8A=D9=84 =D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=8F=EF=B8=8F=
+</button><span class=3D"name-text" title=3D"=D8=B4=D8=B1=D8=A8 =D8=A7=D9=84=
+=D9=85=D8=A7=D8=A1 4-3 =D9=84=D8=AA=D8=B1 =F0=9F=AB=97=F0=9F=A5=A4">=D8=B4=
+=D8=B1=D8=A8 =D8=A7=D9=84=D9=85=D8=A7=D8=A1 4-3 =D9=84=D8=AA=D8=B1 =F0=9F=
+=AB=97=F0=9F=A5=A4</span></div></td><td class=3D"check-cell done"><div clas=
+s=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div clas=
+s=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div clas=
+s=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell do=
+ne"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell we=
+ekend-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check=
+-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td cl=
+ass=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"c=
+heck-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-=
+cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell =
+weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"che=
+ck-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td clas=
+s=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check=
+-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell=
+"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><di=
+v class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-c=
+ell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell w=
+eekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"chec=
+k-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cel=
+l"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td></tr><tr class=3D"habit-row"><td clas=
+s=3D"habit-name-col"><div class=3D"name-wrap"><button class=3D"btn-habit-de=
+l" title=3D"=D8=AD=D8=B0=D9=81">=F0=9F=97=91</button><button class=3D"btn-h=
+abit-edit" title=3D"=D8=AA=D8=B9=D8=AF=D9=8A=D9=84 =D8=A7=D9=84=D8=A7=D8=B3=
+=D9=85">=E2=9C=8F=EF=B8=8F</button><span class=3D"name-text" title=3D"=D8=
+=AA=D8=B9=D9=84=D9=85 =D8=A7=D9=84=D8=A7=D9=86=D8=AC=D9=84=D9=8A=D8=B2=D9=
+=8A=D8=A9 30=F0=9F=93=96=F0=9F=96=8A=EF=B8=8F=F0=9F=94=A0">=D8=AA=D8=B9=D9=
+=84=D9=85 =D8=A7=D9=84=D8=A7=D9=86=D8=AC=D9=84=D9=8A=D8=B2=D9=8A=D8=A9 30=
+=F0=9F=93=96=F0=9F=96=8A=EF=B8=8F=F0=9F=94=A0</span></div></td><td class=3D=
+"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D=
+"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D=
+"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D=
+"check-cell weekend-cell done"><div class=3D"check-box">=E2=9C=93</div></td=
+><td class=3D"check-cell weekend-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box=
+">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</di=
+v></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td cl=
+ass=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></t=
+d><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93<=
+/div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div>=
+</td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td>=
+<td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td c=
+lass=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td></tr><tr c=
+lass=3D"habit-row"><td class=3D"habit-name-col"><div class=3D"name-wrap"><b=
+utton class=3D"btn-habit-del" title=3D"=D8=AD=D8=B0=D9=81">=F0=9F=97=91</bu=
+tton><button class=3D"btn-habit-edit" title=3D"=D8=AA=D8=B9=D8=AF=D9=8A=D9=
+=84 =D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=8F=EF=B8=8F</button><span class=
+=3D"name-text" title=3D"=D8=B1=D9=8A=D8=A7=D8=B6=D8=A9 30=D8=AF =F0=9F=8F=
+=83=F0=9F=A5=8A=F0=9F=8C=9E">=D8=B1=D9=8A=D8=A7=D8=B6=D8=A9 30=D8=AF =F0=9F=
+=8F=83=F0=9F=A5=8A=F0=9F=8C=9E</span></div></td><td class=3D"check-cell don=
+e"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell don=
+e"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell don=
+e"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell wee=
+kend-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"c=
+heck-cell weekend-cell done"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td cl=
+ass=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</di=
+v></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></t=
+d><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td=
+ class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td clas=
+s=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check=
+-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td cl=
+ass=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"c=
+heck-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-=
+cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell =
+weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"che=
+ck-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td clas=
+s=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check=
+-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell=
+"><div class=3D"check-box">=E2=9C=93</div></td></tr><tr class=3D"habit-row"=
+><td class=3D"habit-name-col"><div class=3D"name-wrap"><button class=3D"btn=
+-habit-del" title=3D"=D8=AD=D8=B0=D9=81">=F0=9F=97=91</button><button class=
+=3D"btn-habit-edit" title=3D"=D8=AA=D8=B9=D8=AF=D9=8A=D9=84 =D8=A7=D9=84=D8=
+=A7=D8=B3=D9=85">=E2=9C=8F=EF=B8=8F</button><span class=3D"name-text" title=
+=3D"=D9=82=D8=B1=D8=A7=D8=A1=D8=A9 =D9=83=D8=AA=D8=A7=D8=A8 30=D8=AF=F0=9F=
+=93=9A=F0=9F=93=94=F0=9F=96=8B=EF=B8=8F">=D9=82=D8=B1=D8=A7=D8=A1=D8=A9 =D9=
+=83=D8=AA=D8=A7=D8=A8 30=D8=AF=F0=9F=93=9A=F0=9F=93=94=F0=9F=96=8B=EF=B8=8F=
+</span></div></td><td class=3D"check-cell done"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell weekend-cell done"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell don=
+e"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell don=
+e"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell don=
+e"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell don=
+e"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell don=
+e"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-=
+cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell =
+weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"che=
+ck-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-ce=
+ll"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><=
+div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div c=
+lass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-=
+cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"=
+><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div=
+ class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div clas=
+s=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"=
+check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check=
+-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td></tr><tr class=3D"habit-row"><td class=3D"habit-na=
+me-col"><div class=3D"name-wrap"><button class=3D"btn-habit-del" title=3D"=
+=D8=AD=D8=B0=D9=81">=F0=9F=97=91</button><button class=3D"btn-habit-edit" t=
+itle=3D"=D8=AA=D8=B9=D8=AF=D9=8A=D9=84 =D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=
+=9C=8F=EF=B8=8F</button><span class=3D"name-text" title=3D"=D8=AA=D8=AD=D9=
+=81=D9=8A=D8=B2 30 =D8=AF =F0=9F=8E=A7=F0=9F=8E=B6">=D8=AA=D8=AD=D9=81=D9=
+=8A=D8=B2 30 =D8=AF =F0=9F=8E=A7=F0=9F=8E=B6</span></div></td><td class=3D"=
+check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell weekend-cell done"><div class=3D"check-box">=E2=9C=93</div></td>=
+<td class=3D"check-cell weekend-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box=
+">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</di=
+v></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+/tr><tr class=3D"habit-row"><td class=3D"habit-name-col"><div class=3D"name=
+-wrap"><button class=3D"btn-habit-del" title=3D"=D8=AD=D8=B0=D9=81">=F0=9F=
+=97=91</button><button class=3D"btn-habit-edit" title=3D"=D8=AA=D8=B9=D8=AF=
+=D9=8A=D9=84 =D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=8F=EF=B8=8F</button><sp=
+an class=3D"name-text" title=3D"=D8=A7=D9=84=D8=B5=D9=84=D8=A7=D8=A9 =D9=81=
+=D9=8A =D9=88=D9=82=D8=AA=D9=87=D8=A7 =F0=9F=95=8C=F0=9F=93=BF=F0=9F=A4=B2"=
+>=D8=A7=D9=84=D8=B5=D9=84=D8=A7=D8=A9 =D9=81=D9=8A =D9=88=D9=82=D8=AA=D9=87=
+=D8=A7 =F0=9F=95=8C=F0=9F=93=BF=F0=9F=A4=B2</span></div></td><td class=3D"c=
+heck-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"c=
+heck-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"c=
+heck-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"c=
+heck-cell weekend-cell done"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell weekend-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box=
+">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</di=
+v></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td cl=
+ass=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></t=
+d><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93<=
+/div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div>=
+</td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td>=
+<td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td c=
+lass=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td></tr><tr c=
+lass=3D"habit-row"><td class=3D"habit-name-col"><div class=3D"name-wrap"><b=
+utton class=3D"btn-habit-del" title=3D"=D8=AD=D8=B0=D9=81">=F0=9F=97=91</bu=
+tton><button class=3D"btn-habit-edit" title=3D"=D8=AA=D8=B9=D8=AF=D9=8A=D9=
+=84 =D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=8F=EF=B8=8F</button><span class=
+=3D"name-text" title=3D"=D8=A7=D9=84=D8=AD=D9=81=D8=A7=D8=B8 =D8=B9=D8=A7=
+=D9=84=D8=B3=D9=86=D9=86=F0=9F=9B=90=F0=9F=95=8C=F0=9F=93=BF=F0=9F=A4=B2">=
+=D8=A7=D9=84=D8=AD=D9=81=D8=A7=D8=B8 =D8=B9=D8=A7=D9=84=D8=B3=D9=86=D9=86=
+=F0=9F=9B=90=F0=9F=95=8C=F0=9F=93=BF=F0=9F=A4=B2</span></div></td><td class=
+=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell weekend-cell done"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell weekend-cell done"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box=
+">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</di=
+v></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+/tr><tr class=3D"habit-row"><td class=3D"habit-name-col"><div class=3D"name=
+-wrap"><button class=3D"btn-habit-del" title=3D"=D8=AD=D8=B0=D9=81">=F0=9F=
+=97=91</button><button class=3D"btn-habit-edit" title=3D"=D8=AA=D8=B9=D8=AF=
+=D9=8A=D9=84 =D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=8F=EF=B8=8F</button><sp=
+an class=3D"name-text" title=3D"=D8=A7=D8=B0=D9=83=D8=A7=D8=B1 +=D8=AF=D8=
+=B9=D8=A7=D8=A1 =F0=9F=A4=B2=F0=9F=9B=90=F0=9F=93=BF">=D8=A7=D8=B0=D9=83=D8=
+=A7=D8=B1 +=D8=AF=D8=B9=D8=A7=D8=A1 =F0=9F=A4=B2=F0=9F=9B=90=F0=9F=93=BF</s=
+pan></div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell weekend-cell done"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell done"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"=
+><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weeke=
+nd-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-ce=
+ll"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><=
+div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div c=
+lass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"=
+><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div=
+ class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div clas=
+s=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"=
+check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check=
+-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box"=
+>=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"ch=
+eck-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div cla=
+ss=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D=
+"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"chec=
+k-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box=
+">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td></tr><tr class=3D"habit-row"><td class=3D"habit-name-col">=
+<div class=3D"name-wrap"><button class=3D"btn-habit-del" title=3D"=D8=AD=D8=
+=B0=D9=81">=F0=9F=97=91</button><button class=3D"btn-habit-edit" title=3D"=
+=D8=AA=D8=B9=D8=AF=D9=8A=D9=84 =D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=8F=EF=
+=B8=8F</button><span class=3D"name-text" title=3D"=D8=AD=D9=81=D8=B8 1=D8=
+=B5=D9=81=D8=AD=D8=A9 =D9=82=D8=B1=D8=A7=D9=86 =F0=9F=93=96=F0=9F=93=BF=F0=
+=9F=9B=90=F0=9F=95=8C">=D8=AD=D9=81=D8=B8 1=D8=B5=D9=81=D8=AD=D8=A9 =D9=82=
+=D8=B1=D8=A7=D9=86 =F0=9F=93=96=F0=9F=93=BF=F0=9F=9B=90=F0=9F=95=8C</span><=
+/div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93<=
+/div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93<=
+/div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93<=
+/div></td><td class=3D"check-cell weekend-cell done"><div class=3D"check-bo=
+x">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell done"><div clas=
+s=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div clas=
+s=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div clas=
+s=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div clas=
+s=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div clas=
+s=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"=
+check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div c=
+lass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell=
+"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><di=
+v class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div cla=
+ss=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D=
+"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"chec=
+k-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box=
+">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td></tr><tr class=3D"habit-row"><td class=3D"habit-name-col">=
+<div class=3D"name-wrap"><button class=3D"btn-habit-del" title=3D"=D8=AD=D8=
+=B0=D9=81">=F0=9F=97=91</button><button class=3D"btn-habit-edit" title=3D"=
+=D8=AA=D8=B9=D8=AF=D9=8A=D9=84 =D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=8F=EF=
+=B8=8F</button><span class=3D"name-text" title=3D"=D8=AA=D8=B9=D8=B1=D9=81 =
+=D8=B9=D9=84=D9=89 =D8=A7=D9=84=D9=84=D9=87 30 =F0=9F=9B=90=F0=9F=93=BF=F0=
+=9F=95=8C">=D8=AA=D8=B9=D8=B1=D9=81 =D8=B9=D9=84=D9=89 =D8=A7=D9=84=D9=84=
+=D9=87 30 =F0=9F=9B=90=F0=9F=93=BF=F0=9F=95=8C</span></div></td><td class=
+=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell weekend-cell done"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell weekend-cell done"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box=
+">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box=
+">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div><=
+/td></tr><tr class=3D"habit-row"><td class=3D"habit-name-col"><div class=3D=
+"name-wrap"><button class=3D"btn-habit-del" title=3D"=D8=AD=D8=B0=D9=81">=
+=F0=9F=97=91</button><button class=3D"btn-habit-edit" title=3D"=D8=AA=D8=B9=
+=D8=AF=D9=8A=D9=84 =D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=8F=EF=B8=8F</butt=
+on><span class=3D"name-text" title=3D"=D8=A7=D9=83=D9=88=D9=86 =D9=85=D8=B3=
+=D8=AA=D9=85=D8=B9=D8=A9  =F0=9F=8E=A7=F0=9F=A4=AB">=D8=A7=D9=83=D9=88=D9=
+=86 =D9=85=D8=B3=D8=AA=D9=85=D8=B9=D8=A9  =F0=9F=8E=A7=F0=9F=A4=AB</span></=
+div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell weekend-cell done"><div class=3D"check-box=
+">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell done"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"=
+><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div=
+ class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div clas=
+s=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"=
+check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check=
+-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box"=
+>=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"ch=
+eck-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div cla=
+ss=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D=
+"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"chec=
+k-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box=
+">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box=
+">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td></tr><tr class=3D"habit-row"><td class=3D"habit-name-col"><di=
+v class=3D"name-wrap"><button class=3D"btn-habit-del" title=3D"=D8=AD=D8=B0=
+=D9=81">=F0=9F=97=91</button><button class=3D"btn-habit-edit" title=3D"=D8=
+=AA=D8=B9=D8=AF=D9=8A=D9=84 =D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=8F=EF=B8=
+=8F</button><span class=3D"name-text" title=3D"=D8=B9=D9=86=D8=A7=D9=8A=D8=
+=A9 =D8=A8=D8=A7=D9=84=D9=86=D9=81=D8=B3 =F0=9F=AA=AD=F0=9F=91=A0=F0=9F=92=
+=84=F0=9F=9B=81=F0=9F=AA=9E=F0=9F=A7=B4=F0=9F=AA=92">=D8=B9=D9=86=D8=A7=D9=
+=8A=D8=A9 =D8=A8=D8=A7=D9=84=D9=86=D9=81=D8=B3 =F0=9F=AA=AD=F0=9F=91=A0=F0=
+=9F=92=84=F0=9F=9B=81=F0=9F=AA=9E=F0=9F=A7=B4=F0=9F=AA=92</span></div></td>=
+<td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td>=
+<td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td>=
+<td class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td>=
+<td class=3D"check-cell weekend-cell done"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell weekend-cell done"><div class=3D"chec=
+k-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=3D"chec=
+k-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=3D"chec=
+k-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div class=3D"chec=
+k-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box=
+">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box=
+">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</=
+div></td></tr><tr class=3D"habit-row"><td class=3D"habit-name-col"><div cla=
+ss=3D"name-wrap"><button class=3D"btn-habit-del" title=3D"=D8=AD=D8=B0=D9=
+=81">=F0=9F=97=91</button><button class=3D"btn-habit-edit" title=3D"=D8=AA=
+=D8=B9=D8=AF=D9=8A=D9=84 =D8=A7=D9=84=D8=A7=D8=B3=D9=85">=E2=9C=8F=EF=B8=8F=
+</button><span class=3D"name-text" title=3D"=D8=A7=D9=84=D8=AD=D8=B5=D9=88=
+=D9=84 =D8=B9=D9=84=D9=89 =D8=B9=D9=84=D8=A7=D9=85=D8=A9 =F0=9F=92=AF">=D8=
+=A7=D9=84=D8=AD=D8=B5=D9=88=D9=84 =D8=B9=D9=84=D9=89 =D8=B9=D9=84=D8=A7=D9=
+=85=D8=A9 =F0=9F=92=AF</span></div></td><td class=3D"check-cell done"><div =
+class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div =
+class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><div =
+class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cel=
+l done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cel=
+l weekend-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"c=
+heck-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-=
+cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><=
+td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td cl=
+ass=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"c=
+heck-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-=
+cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell =
+weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"che=
+ck-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td clas=
+s=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check=
+-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell=
+"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><di=
+v class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-c=
+ell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell w=
+eekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"chec=
+k-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cel=
+l"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td></tr><tr class=3D"habit-row"><td clas=
+s=3D"habit-name-col"><div class=3D"name-wrap"><button class=3D"btn-habit-de=
+l" title=3D"=D8=AD=D8=B0=D9=81">=F0=9F=97=91</button><button class=3D"btn-h=
+abit-edit" title=3D"=D8=AA=D8=B9=D8=AF=D9=8A=D9=84 =D8=A7=D9=84=D8=A7=D8=B3=
+=D9=85">=E2=9C=8F=EF=B8=8F</button><span class=3D"name-text" title=3D"=D8=
+=A8=D8=B1=D9=85=D8=AC=D8=A9 30=D8=AF =F0=9F=92=BB">=D8=A8=D8=B1=D9=85=D8=AC=
+=D8=A9 30=D8=AF =F0=9F=92=BB</span></div></td><td class=3D"check-cell done"=
+><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"=
+><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"=
+><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weeke=
+nd-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"che=
+ck-cell weekend-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td=
+ class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td=
+ class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td=
+ class=3D"check-cell done"><div class=3D"check-box">=E2=9C=93</div></td><td=
+ class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td clas=
+s=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td c=
+lass=3D"check-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></=
+td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><t=
+d class=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td cla=
+ss=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D=
+"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"chec=
+k-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cel=
+l weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"c=
+heck-cell weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td cl=
+ass=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=
+=3D"check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"c=
+heck-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-=
+cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"=
+><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weeke=
+nd-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-ce=
+ll weekend-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"=
+check-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check=
+-cell"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell=
+"><div class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><di=
+v class=3D"check-box">=E2=9C=93</div></td></tr><tr class=3D"habit-row"><td =
+class=3D"habit-name-col"><div class=3D"name-wrap"><button class=3D"btn-habi=
+t-del" title=3D"=D8=AD=D8=B0=D9=81">=F0=9F=97=91</button><button class=3D"b=
+tn-habit-edit" title=3D"=D8=AA=D8=B9=D8=AF=D9=8A=D9=84 =D8=A7=D9=84=D8=A7=
+=D8=B3=D9=85">=E2=9C=8F=EF=B8=8F</button><span class=3D"name-text" title=3D=
+"=D8=AA=D9=86=D8=A7=D9=88=D9=84 =D9=81=D9=8A=D8=AA=D8=A7=D9=85=D9=8A=D9=86=
+=D8=A7=D8=AA=F0=9F=92=8A=F0=9F=AB=99=F0=9F=A6=B4=F0=9F=94=8B=F0=9F=92=AA">=
+=D8=AA=D9=86=D8=A7=D9=88=D9=84 =D9=81=D9=8A=D8=AA=D8=A7=D9=85=D9=8A=D9=86=
+=D8=A7=D8=AA=F0=9F=92=8A=F0=9F=AB=99=F0=9F=A6=B4=F0=9F=94=8B=F0=9F=92=AA</s=
+pan></div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell done"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell weekend-cell done"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell done"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell done"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><d=
+iv class=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div cl=
+ass=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=
+=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"che=
+ck-box">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div clas=
+s=3D"check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"=
+check-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check=
+-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box"=
+>=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"check-box=
+">=E2=9C=93</div></td><td class=3D"check-cell weekend-cell"><div class=3D"c=
+heck-box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-=
+box">=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=
+=E2=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=
+=9C=93</div></td><td class=3D"check-cell"><div class=3D"check-box">=E2=9C=
+=93</div></td></tr></tbody>
+      <tfoot id=3D"tableFoot"><tr class=3D"circle-row"><td class=3D"stat-la=
+bel-cell" style=3D"font-size: 10px;">=F0=9F=93=8A =D8=A7=D9=84=D9=8A=D9=88=
+=D9=85</td><td id=3D"circ-0">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 1: 100% (2=
+5/25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--green)" stroke-width=3D"2.5" stroke-dasharray=3D"69.12 69.12" stroke-line=
+cap=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--green)" font=
+-family=3D"Tajawal,sans-serif">100%</text>
+        </svg>
+        <div class=3D"day-circle-pct">1</div>
+      </div></td><td id=3D"circ-1">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 2: 96% (24=
+/25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--green)" stroke-width=3D"2.5" stroke-dasharray=3D"66.35 69.12" stroke-line=
+cap=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--green)" font=
+-family=3D"Tajawal,sans-serif">96%</text>
+        </svg>
+        <div class=3D"day-circle-pct">2</div>
+      </div></td><td id=3D"circ-2">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 3: 96% (24=
+/25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--green)" stroke-width=3D"2.5" stroke-dasharray=3D"66.35 69.12" stroke-line=
+cap=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--green)" font=
+-family=3D"Tajawal,sans-serif">96%</text>
+        </svg>
+        <div class=3D"day-circle-pct">3</div>
+      </div></td><td id=3D"circ-3">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 4: 96% (24=
+/25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--green)" stroke-width=3D"2.5" stroke-dasharray=3D"66.35 69.12" stroke-line=
+cap=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--green)" font=
+-family=3D"Tajawal,sans-serif">96%</text>
+        </svg>
+        <div class=3D"day-circle-pct">4</div>
+      </div></td><td id=3D"circ-4">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 5: 92% (23=
+/25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--green)" stroke-width=3D"2.5" stroke-dasharray=3D"63.59 69.12" stroke-line=
+cap=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--green)" font=
+-family=3D"Tajawal,sans-serif">92%</text>
+        </svg>
+        <div class=3D"day-circle-pct">5</div>
+      </div></td><td id=3D"circ-5">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 6: 92% (23=
+/25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--green)" stroke-width=3D"2.5" stroke-dasharray=3D"63.59 69.12" stroke-line=
+cap=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--green)" font=
+-family=3D"Tajawal,sans-serif">92%</text>
+        </svg>
+        <div class=3D"day-circle-pct">6</div>
+      </div></td><td id=3D"circ-6">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 7: 92% (23=
+/25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--green)" stroke-width=3D"2.5" stroke-dasharray=3D"63.59 69.12" stroke-line=
+cap=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--green)" font=
+-family=3D"Tajawal,sans-serif">92%</text>
+        </svg>
+        <div class=3D"day-circle-pct">7</div>
+      </div></td><td id=3D"circ-7">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 8: 88% (22=
+/25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--green)" stroke-width=3D"2.5" stroke-dasharray=3D"60.82 69.12" stroke-line=
+cap=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--green)" font=
+-family=3D"Tajawal,sans-serif">88%</text>
+        </svg>
+        <div class=3D"day-circle-pct">8</div>
+      </div></td><td id=3D"circ-8">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 9: 44% (11=
+/25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--orange)" stroke-width=3D"2.5" stroke-dasharray=3D"30.41 69.12" stroke-lin=
+ecap=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--orange)" fon=
+t-family=3D"Tajawal,sans-serif">44%</text>
+        </svg>
+        <div class=3D"day-circle-pct">9</div>
+      </div></td><td id=3D"circ-9">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 10: 0% (0/=
+25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5" stroke-dasharray=3D"0.00 69.12" stroke-line=
+cap=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--gray-2)" fon=
+t-family=3D"Tajawal,sans-serif">0%</text>
+        </svg>
+        <div class=3D"day-circle-pct">10</div>
+      </div></td><td id=3D"circ-10">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 11: 4% (1/=
+25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--red)" stroke-width=3D"2.5" stroke-dasharray=3D"2.76 69.12" stroke-linecap=
+=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--red)" font-f=
+amily=3D"Tajawal,sans-serif">4%</text>
+        </svg>
+        <div class=3D"day-circle-pct">11</div>
+      </div></td><td id=3D"circ-11">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 12: 0% (0/=
+25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5" stroke-dasharray=3D"0.00 69.12" stroke-line=
+cap=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--gray-2)" fon=
+t-family=3D"Tajawal,sans-serif">0%</text>
+        </svg>
+        <div class=3D"day-circle-pct">12</div>
+      </div></td><td id=3D"circ-12">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 13: 0% (0/=
+25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5" stroke-dasharray=3D"0.00 69.12" stroke-line=
+cap=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--gray-2)" fon=
+t-family=3D"Tajawal,sans-serif">0%</text>
+        </svg>
+        <div class=3D"day-circle-pct">13</div>
+      </div></td><td id=3D"circ-13">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 14: 8% (2/=
+25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--red)" stroke-width=3D"2.5" stroke-dasharray=3D"5.53 69.12" stroke-linecap=
+=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--red)" font-f=
+amily=3D"Tajawal,sans-serif">8%</text>
+        </svg>
+        <div class=3D"day-circle-pct">14</div>
+      </div></td><td id=3D"circ-14">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 15: 12% (3=
+/25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--red)" stroke-width=3D"2.5" stroke-dasharray=3D"8.29 69.12" stroke-linecap=
+=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--red)" font-f=
+amily=3D"Tajawal,sans-serif">12%</text>
+        </svg>
+        <div class=3D"day-circle-pct">15</div>
+      </div></td><td id=3D"circ-15">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 16: 4% (1/=
+25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--red)" stroke-width=3D"2.5" stroke-dasharray=3D"2.76 69.12" stroke-linecap=
+=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--red)" font-f=
+amily=3D"Tajawal,sans-serif">4%</text>
+        </svg>
+        <div class=3D"day-circle-pct">16</div>
+      </div></td><td id=3D"circ-16">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 17: 4% (1/=
+25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--red)" stroke-width=3D"2.5" stroke-dasharray=3D"2.76 69.12" stroke-linecap=
+=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--red)" font-f=
+amily=3D"Tajawal,sans-serif">4%</text>
+        </svg>
+        <div class=3D"day-circle-pct">17</div>
+      </div></td><td id=3D"circ-17">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 18: 4% (1/=
+25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--red)" stroke-width=3D"2.5" stroke-dasharray=3D"2.76 69.12" stroke-linecap=
+=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--red)" font-f=
+amily=3D"Tajawal,sans-serif">4%</text>
+        </svg>
+        <div class=3D"day-circle-pct">18</div>
+      </div></td><td id=3D"circ-18">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 19: 4% (1/=
+25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--red)" stroke-width=3D"2.5" stroke-dasharray=3D"2.76 69.12" stroke-linecap=
+=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--red)" font-f=
+amily=3D"Tajawal,sans-serif">4%</text>
+        </svg>
+        <div class=3D"day-circle-pct">19</div>
+      </div></td><td id=3D"circ-19">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 20: 12% (3=
+/25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--red)" stroke-width=3D"2.5" stroke-dasharray=3D"8.29 69.12" stroke-linecap=
+=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--red)" font-f=
+amily=3D"Tajawal,sans-serif">12%</text>
+        </svg>
+        <div class=3D"day-circle-pct">20</div>
+      </div></td><td id=3D"circ-20">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 21: 12% (3=
+/25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--red)" stroke-width=3D"2.5" stroke-dasharray=3D"8.29 69.12" stroke-linecap=
+=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--red)" font-f=
+amily=3D"Tajawal,sans-serif">12%</text>
+        </svg>
+        <div class=3D"day-circle-pct">21</div>
+      </div></td><td id=3D"circ-21">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 22: 8% (2/=
+25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--red)" stroke-width=3D"2.5" stroke-dasharray=3D"5.53 69.12" stroke-linecap=
+=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--red)" font-f=
+amily=3D"Tajawal,sans-serif">8%</text>
+        </svg>
+        <div class=3D"day-circle-pct">22</div>
+      </div></td><td id=3D"circ-22">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 23: 4% (1/=
+25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--red)" stroke-width=3D"2.5" stroke-dasharray=3D"2.76 69.12" stroke-linecap=
+=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--red)" font-f=
+amily=3D"Tajawal,sans-serif">4%</text>
+        </svg>
+        <div class=3D"day-circle-pct">23</div>
+      </div></td><td id=3D"circ-23">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 24: 16% (4=
+/25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--red)" stroke-width=3D"2.5" stroke-dasharray=3D"11.06 69.12" stroke-lineca=
+p=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--red)" font-f=
+amily=3D"Tajawal,sans-serif">16%</text>
+        </svg>
+        <div class=3D"day-circle-pct">24</div>
+      </div></td><td id=3D"circ-24">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 25: 4% (1/=
+25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--red)" stroke-width=3D"2.5" stroke-dasharray=3D"2.76 69.12" stroke-linecap=
+=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--red)" font-f=
+amily=3D"Tajawal,sans-serif">4%</text>
+        </svg>
+        <div class=3D"day-circle-pct">25</div>
+      </div></td><td id=3D"circ-25">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 26: 8% (2/=
+25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--red)" stroke-width=3D"2.5" stroke-dasharray=3D"5.53 69.12" stroke-linecap=
+=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--red)" font-f=
+amily=3D"Tajawal,sans-serif">8%</text>
+        </svg>
+        <div class=3D"day-circle-pct">26</div>
+      </div></td><td id=3D"circ-26">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 27: 8% (2/=
+25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--red)" stroke-width=3D"2.5" stroke-dasharray=3D"5.53 69.12" stroke-linecap=
+=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--red)" font-f=
+amily=3D"Tajawal,sans-serif">8%</text>
+        </svg>
+        <div class=3D"day-circle-pct">27</div>
+      </div></td><td id=3D"circ-27">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 28: 12% (3=
+/25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--red)" stroke-width=3D"2.5" stroke-dasharray=3D"8.29 69.12" stroke-linecap=
+=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--red)" font-f=
+amily=3D"Tajawal,sans-serif">12%</text>
+        </svg>
+        <div class=3D"day-circle-pct">28</div>
+      </div></td><td id=3D"circ-28">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 29: 8% (2/=
+25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--red)" stroke-width=3D"2.5" stroke-dasharray=3D"5.53 69.12" stroke-linecap=
+=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--red)" font-f=
+amily=3D"Tajawal,sans-serif">8%</text>
+        </svg>
+        <div class=3D"day-circle-pct">29</div>
+      </div></td><td id=3D"circ-29">
+      <div class=3D"day-circle-wrap" title=3D"=D9=8A=D9=88=D9=85 30: 0% (0/=
+25)">
+        <svg class=3D"day-circle-svg" width=3D"26" height=3D"26" viewBox=3D=
+"0 0 26 26">
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5"></circle>
+          <circle cx=3D"13" cy=3D"13" r=3D"11" fill=3D"none" stroke=3D"var(=
+--gray-1)" stroke-width=3D"2.5" stroke-dasharray=3D"0.00 69.12" stroke-line=
+cap=3D"round" transform=3D"rotate(-90 13 13)"></circle>
+          <text x=3D"13" y=3D"13" text-anchor=3D"middle" dominant-baseline=
+=3D"central" font-size=3D"6" font-weight=3D"800" fill=3D"var(--gray-2)" fon=
+t-family=3D"Tajawal,sans-serif">0%</text>
+        </svg>
+        <div class=3D"day-circle-pct">30</div>
+      </div></td></tr><tr class=3D"stats-row done-row"><td class=3D"stat-la=
+bel-cell">=E2=9C=93 =D9=85=D9=86=D8=AC=D8=B2</td><td id=3D"dn-0">25</td><td=
+ id=3D"dn-1">24</td><td id=3D"dn-2">24</td><td id=3D"dn-3">24</td><td id=3D=
+"dn-4">23</td><td id=3D"dn-5">23</td><td id=3D"dn-6">23</td><td id=3D"dn-7"=
+>22</td><td id=3D"dn-8">11</td><td id=3D"dn-9">0</td><td id=3D"dn-10">1</td=
+><td id=3D"dn-11">0</td><td id=3D"dn-12">0</td><td id=3D"dn-13">2</td><td i=
+d=3D"dn-14">3</td><td id=3D"dn-15">1</td><td id=3D"dn-16">1</td><td id=3D"d=
+n-17">1</td><td id=3D"dn-18">1</td><td id=3D"dn-19">3</td><td id=3D"dn-20">=
+3</td><td id=3D"dn-21">2</td><td id=3D"dn-22">1</td><td id=3D"dn-23">4</td>=
+<td id=3D"dn-24">1</td><td id=3D"dn-25">2</td><td id=3D"dn-26">2</td><td id=
+=3D"dn-27">3</td><td id=3D"dn-28">2</td><td id=3D"dn-29">0</td></tr><tr cla=
+ss=3D"stats-row undone-row"><td class=3D"stat-label-cell">=E2=9C=97 =D8=BA=
+=D9=8A=D8=B1 =D9=85=D9=86=D8=AC=D8=B2</td><td id=3D"un-0">0</td><td id=3D"u=
+n-1">1</td><td id=3D"un-2">1</td><td id=3D"un-3">1</td><td id=3D"un-4">2</t=
+d><td id=3D"un-5">2</td><td id=3D"un-6">2</td><td id=3D"un-7">3</td><td id=
+=3D"un-8">14</td><td id=3D"un-9">25</td><td id=3D"un-10">24</td><td id=3D"u=
+n-11">25</td><td id=3D"un-12">25</td><td id=3D"un-13">23</td><td id=3D"un-1=
+4">22</td><td id=3D"un-15">24</td><td id=3D"un-16">24</td><td id=3D"un-17">=
+24</td><td id=3D"un-18">24</td><td id=3D"un-19">22</td><td id=3D"un-20">22<=
+/td><td id=3D"un-21">23</td><td id=3D"un-22">24</td><td id=3D"un-23">21</td=
+><td id=3D"un-24">24</td><td id=3D"un-25">23</td><td id=3D"un-26">23</td><t=
+d id=3D"un-27">22</td><td id=3D"un-28">23</td><td id=3D"un-29">25</td></tr>=
+</tfoot>
+    </table>
+  </div>
+</div>
+
+<!-- Weekly Circles -->
+<div class=3D"weekly-circles-section">
+  <div class=3D"panel-title">=F0=9F=97=93=EF=B8=8F =D8=A5=D9=86=D8=AC=D8=A7=
+=D8=B2 =D9=83=D9=84 =D8=A3=D8=B3=D8=A8=D9=88=D8=B9</div>
+  <div class=3D"weekly-circles-row" id=3D"weeklyCirclesRow"><div class=3D"w=
+eek-circle-wrap" title=3D"=D8=A7=D9=84=D8=A3=D8=B3=D8=A8=D9=88=D8=B9 1: 166=
+ =D9=85=D9=86 175 (95%)">
+      <svg width=3D"110" height=3D"110" viewBox=3D"0 0 110 110">
+        <!-- Outer glow ring -->
+        <circle cx=3D"55" cy=3D"55" r=3D"50" fill=3D"#6DBF4A" opacity=3D"0.=
+25"></circle>
+        <!-- Track -->
+        <circle cx=3D"55" cy=3D"55" r=3D"40" fill=3D"none" stroke=3D"#6DBF4=
+A" stroke-width=3D"14" opacity=3D"0.2"></circle>
+        <!-- Progress arc -->
+        <circle cx=3D"55" cy=3D"55" r=3D"40" fill=3D"none" stroke=3D"#6DBF4=
+A" stroke-width=3D"14" stroke-dasharray=3D"238.76 251.33" stroke-linecap=3D=
+"round" transform=3D"rotate(-90 55 55)"></circle>
+        <!-- Inner white -->
+        <circle cx=3D"55" cy=3D"55" r=3D"26" fill=3D"white"></circle>
+        <!-- Pct text -->
+        <text x=3D"55" y=3D"50" text-anchor=3D"middle" dominant-baseline=3D=
+"central" font-size=3D"14" font-weight=3D"900" fill=3D"#3D8A1E" font-family=
+=3D"Tajawal,Inter,sans-serif">95%</text>
+        <text x=3D"55" y=3D"65" text-anchor=3D"middle" dominant-baseline=3D=
+"central" font-size=3D"8" font-weight=3D"600" fill=3D"#3D8A1E" opacity=3D"0=
+.7" font-family=3D"Tajawal,Inter,sans-serif">=D9=85=D9=86=D8=AC=D8=B2</text=
+>
+      </svg>
+      <div class=3D"week-circle-name">=D8=A7=D9=84=D8=A3=D8=B3=D8=A8=D9=88=
+=D8=B9 1</div>
+      <div class=3D"week-circle-days">=D9=8A=D9=88=D9=85 1 =E2=80=93 7</div=
+>
+    </div><div class=3D"week-circle-wrap" title=3D"=D8=A7=D9=84=D8=A3=D8=B3=
+=D8=A8=D9=88=D8=B9 2: 36 =D9=85=D9=86 175 (21%)">
+      <svg width=3D"110" height=3D"110" viewBox=3D"0 0 110 110">
+        <!-- Outer glow ring -->
+        <circle cx=3D"55" cy=3D"55" r=3D"50" fill=3D"#6DBF4A" opacity=3D"0.=
+25"></circle>
+        <!-- Track -->
+        <circle cx=3D"55" cy=3D"55" r=3D"40" fill=3D"none" stroke=3D"#6DBF4=
+A" stroke-width=3D"14" opacity=3D"0.2"></circle>
+        <!-- Progress arc -->
+        <circle cx=3D"55" cy=3D"55" r=3D"40" fill=3D"none" stroke=3D"#6DBF4=
+A" stroke-width=3D"14" stroke-dasharray=3D"52.78 251.33" stroke-linecap=3D"=
+round" transform=3D"rotate(-90 55 55)"></circle>
+        <!-- Inner white -->
+        <circle cx=3D"55" cy=3D"55" r=3D"26" fill=3D"white"></circle>
+        <!-- Pct text -->
+        <text x=3D"55" y=3D"50" text-anchor=3D"middle" dominant-baseline=3D=
+"central" font-size=3D"14" font-weight=3D"900" fill=3D"#3D8A1E" font-family=
+=3D"Tajawal,Inter,sans-serif">21%</text>
+        <text x=3D"55" y=3D"65" text-anchor=3D"middle" dominant-baseline=3D=
+"central" font-size=3D"8" font-weight=3D"600" fill=3D"#3D8A1E" opacity=3D"0=
+.7" font-family=3D"Tajawal,Inter,sans-serif">=D9=85=D9=86=D8=AC=D8=B2</text=
+>
+      </svg>
+      <div class=3D"week-circle-name">=D8=A7=D9=84=D8=A3=D8=B3=D8=A8=D9=88=
+=D8=B9 2</div>
+      <div class=3D"week-circle-days">=D9=8A=D9=88=D9=85 8 =E2=80=93 14</di=
+v>
+    </div><div class=3D"week-circle-wrap" title=3D"=D8=A7=D9=84=D8=A3=D8=B3=
+=D8=A8=D9=88=D8=B9 3: 13 =D9=85=D9=86 175 (7%)">
+      <svg width=3D"110" height=3D"110" viewBox=3D"0 0 110 110">
+        <!-- Outer glow ring -->
+        <circle cx=3D"55" cy=3D"55" r=3D"50" fill=3D"#6DBF4A" opacity=3D"0.=
+25"></circle>
+        <!-- Track -->
+        <circle cx=3D"55" cy=3D"55" r=3D"40" fill=3D"none" stroke=3D"#6DBF4=
+A" stroke-width=3D"14" opacity=3D"0.2"></circle>
+        <!-- Progress arc -->
+        <circle cx=3D"55" cy=3D"55" r=3D"40" fill=3D"none" stroke=3D"#6DBF4=
+A" stroke-width=3D"14" stroke-dasharray=3D"17.59 251.33" stroke-linecap=3D"=
+round" transform=3D"rotate(-90 55 55)"></circle>
+        <!-- Inner white -->
+        <circle cx=3D"55" cy=3D"55" r=3D"26" fill=3D"white"></circle>
+        <!-- Pct text -->
+        <text x=3D"55" y=3D"50" text-anchor=3D"middle" dominant-baseline=3D=
+"central" font-size=3D"14" font-weight=3D"900" fill=3D"#3D8A1E" font-family=
+=3D"Tajawal,Inter,sans-serif">7%</text>
+        <text x=3D"55" y=3D"65" text-anchor=3D"middle" dominant-baseline=3D=
+"central" font-size=3D"8" font-weight=3D"600" fill=3D"#3D8A1E" opacity=3D"0=
+.7" font-family=3D"Tajawal,Inter,sans-serif">=D9=85=D9=86=D8=AC=D8=B2</text=
+>
+      </svg>
+      <div class=3D"week-circle-name">=D8=A7=D9=84=D8=A3=D8=B3=D8=A8=D9=88=
+=D8=B9 3</div>
+      <div class=3D"week-circle-days">=D9=8A=D9=88=D9=85 15 =E2=80=93 21</d=
+iv>
+    </div><div class=3D"week-circle-wrap" title=3D"=D8=A7=D9=84=D8=A3=D8=B3=
+=D8=A8=D9=88=D8=B9 4: 17 =D9=85=D9=86 225 (8%)">
+      <svg width=3D"110" height=3D"110" viewBox=3D"0 0 110 110">
+        <!-- Outer glow ring -->
+        <circle cx=3D"55" cy=3D"55" r=3D"50" fill=3D"#6DBF4A" opacity=3D"0.=
+25"></circle>
+        <!-- Track -->
+        <circle cx=3D"55" cy=3D"55" r=3D"40" fill=3D"none" stroke=3D"#6DBF4=
+A" stroke-width=3D"14" opacity=3D"0.2"></circle>
+        <!-- Progress arc -->
+        <circle cx=3D"55" cy=3D"55" r=3D"40" fill=3D"none" stroke=3D"#6DBF4=
+A" stroke-width=3D"14" stroke-dasharray=3D"20.11 251.33" stroke-linecap=3D"=
+round" transform=3D"rotate(-90 55 55)"></circle>
+        <!-- Inner white -->
+        <circle cx=3D"55" cy=3D"55" r=3D"26" fill=3D"white"></circle>
+        <!-- Pct text -->
+        <text x=3D"55" y=3D"50" text-anchor=3D"middle" dominant-baseline=3D=
+"central" font-size=3D"14" font-weight=3D"900" fill=3D"#3D8A1E" font-family=
+=3D"Tajawal,Inter,sans-serif">8%</text>
+        <text x=3D"55" y=3D"65" text-anchor=3D"middle" dominant-baseline=3D=
+"central" font-size=3D"8" font-weight=3D"600" fill=3D"#3D8A1E" opacity=3D"0=
+.7" font-family=3D"Tajawal,Inter,sans-serif">=D9=85=D9=86=D8=AC=D8=B2</text=
+>
+      </svg>
+      <div class=3D"week-circle-name">=D8=A7=D9=84=D8=A3=D8=B3=D8=A8=D9=88=
+=D8=B9 4</div>
+      <div class=3D"week-circle-days">=D9=8A=D9=88=D9=85 22 =E2=80=93 30</d=
+iv>
+    </div></div>
+</div>
+
+<!-- Analysis -->
+<div class=3D"analysis-panel">
+  <div class=3D"panel-title">=F0=9F=93=8A =D8=AA=D8=AD=D9=84=D9=8A=D9=84 =
+=D8=A7=D9=84=D8=A3=D8=AF=D8=A7=D8=A1</div>
+  <div id=3D"analysisRows"><div class=3D"habit-analysis-row">
+      <div class=3D"ha-name">=D8=A7=D9=84=D8=A7=D8=B3=D8=AA=D9=8A=D9=82=D8=
+=A7=D8=B8 =D8=A8=D8=A7=D9=83=D8=B1=D8=A7 5:0=E2=8F=B0</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:37%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">11/30</div>
+      <div class=3D"ha-pct">37%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=AA=D9=81=D8=B1=D9=8A=D8=B4 =D8=A7=D8=B3=D9=
+=86=D8=A7=D9=86 =F0=9F=AA=A5=F0=9F=A7=BC</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:33%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">10/30</div>
+      <div class=3D"ha-pct">33%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">10 .=D8=B3=D8=A7=D8=B9=D8=A7=D8=AA =D8=AF=D8=
+=B1=D8=A7=D8=B3=D8=A9  =F0=9F=93=96</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:27%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">8/30</div>
+      <div class=3D"ha-pct">27%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=A7=D9=86=D8=AC=D8=A7=D8=B2 =D8=A7=D9=84=D8=
+=A7=D9=87=D8=AF=D8=A7=D9=81  =F0=9F=93=8B=F0=9F=8E=AF</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:37%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">11/30</div>
+      <div class=3D"ha-pct">37%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=A7=D8=B3=D8=AA=D9=83=D8=B4=D8=A7=D9=81 =D9=
+=85=D9=87=D8=A7=D8=B1=D8=A7=D8=AA =F0=9F=A7=B6=F0=9F=8E=A8=F0=9F=8E=BE=F0=
+=9F=A5=8B=F0=9F=8E=B9=F0=9F=97=A1=EF=B8=8F</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:40%;b=
+ackground:var(--orange)"></div></div>
+      <div class=3D"ha-count">12/30</div>
+      <div class=3D"ha-pct">40%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=AA=D8=B1=D8=AA=D9=8A=D8=A8 =D8=A7=D9=84=D8=
+=BA=D8=B1=D9=81=D8=A9=F0=9F=AA=A3=F0=9F=A7=B9=F0=9F=A7=BD</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:67%;b=
+ackground:var(--orange)"></div></div>
+      <div class=3D"ha-count">20/30</div>
+      <div class=3D"ha-pct">67%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=A7=D9=83=D9=84 =D8=B5=D8=AD=D9=8A =F0=9F=
+=A5=91=F0=9F=98=8B=F0=9F=AB=90=F0=9F=A5=9D</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:30%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">9/30</div>
+      <div class=3D"ha-pct">30%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=AA=D9=82=D9=84=D9=8A=D9=84 =D8=B3=D8=A7=D8=
+=B9=D8=A7=D8=AA 1h=F0=9F=93=B5</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:30%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">9/30</div>
+      <div class=3D"ha-pct">30%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=AA=D9=82=D9=84=D9=8A=D9=84 =D8=A7=D9=84=D9=
+=83=D8=A7=D9=81=D8=A7=D9=8A=D9=86=E2=98=95=F0=9F=8D=AD=F0=9F=8D=AB=F0=9F=A7=
+=8B</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:30%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">9/30</div>
+      <div class=3D"ha-pct">30%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=AF=D8=B4 =D8=A8=D8=A7=D8=B1=D8=AF =F0=9F=
+=9A=BF</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:27%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">8/30</div>
+      <div class=3D"ha-pct">27%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=B4=D8=B1=D8=A8 =D8=A7=D9=84=D9=85=D8=A7=D8=
+=A1 4-3 =D9=84=D8=AA=D8=B1 =F0=9F=AB=97=F0=9F=A5=A4</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:30%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">9/30</div>
+      <div class=3D"ha-pct">30%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=AA=D8=B9=D9=84=D9=85 =D8=A7=D9=84=D8=A7=D9=
+=86=D8=AC=D9=84=D9=8A=D8=B2=D9=8A=D8=A9 30=F0=9F=93=96=F0=9F=96=8A=EF=B8=8F=
+=F0=9F=94=A0</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:27%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">8/30</div>
+      <div class=3D"ha-pct">27%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=B1=D9=8A=D8=A7=D8=B6=D8=A9 30=D8=AF =F0=9F=
+=8F=83=F0=9F=A5=8A=F0=9F=8C=9E</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:27%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">8/30</div>
+      <div class=3D"ha-pct">27%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D9=82=D8=B1=D8=A7=D8=A1=D8=A9 =D9=83=D8=AA=D8=
+=A7=D8=A8 30=D8=AF=F0=9F=93=9A=F0=9F=93=94=F0=9F=96=8B=EF=B8=8F</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:30%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">9/30</div>
+      <div class=3D"ha-pct">30%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=AA=D8=AD=D9=81=D9=8A=D8=B2 30 =D8=AF =F0=
+=9F=8E=A7=F0=9F=8E=B6</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:30%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">9/30</div>
+      <div class=3D"ha-pct">30%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=A7=D9=84=D8=B5=D9=84=D8=A7=D8=A9 =D9=81=D9=
+=8A =D9=88=D9=82=D8=AA=D9=87=D8=A7 =F0=9F=95=8C=F0=9F=93=BF=F0=9F=A4=B2</di=
+v>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:27%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">8/30</div>
+      <div class=3D"ha-pct">27%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=A7=D9=84=D8=AD=D9=81=D8=A7=D8=B8 =D8=B9=D8=
+=A7=D9=84=D8=B3=D9=86=D9=86=F0=9F=9B=90=F0=9F=95=8C=F0=9F=93=BF=F0=9F=A4=B2=
+</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:27%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">8/30</div>
+      <div class=3D"ha-pct">27%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=A7=D8=B0=D9=83=D8=A7=D8=B1 +=D8=AF=D8=B9=
+=D8=A7=D8=A1 =F0=9F=A4=B2=F0=9F=9B=90=F0=9F=93=BF</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:30%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">9/30</div>
+      <div class=3D"ha-pct">30%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=AD=D9=81=D8=B8 1=D8=B5=D9=81=D8=AD=D8=A9 =
+=D9=82=D8=B1=D8=A7=D9=86 =F0=9F=93=96=F0=9F=93=BF=F0=9F=9B=90=F0=9F=95=8C</=
+div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:30%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">9/30</div>
+      <div class=3D"ha-pct">30%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=AA=D8=B9=D8=B1=D9=81 =D8=B9=D9=84=D9=89 =
+=D8=A7=D9=84=D9=84=D9=87 30 =F0=9F=9B=90=F0=9F=93=BF=F0=9F=95=8C</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:30%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">9/30</div>
+      <div class=3D"ha-pct">30%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=A7=D9=83=D9=88=D9=86 =D9=85=D8=B3=D8=AA=D9=
+=85=D8=B9=D8=A9  =F0=9F=8E=A7=F0=9F=A4=AB</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:30%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">9/30</div>
+      <div class=3D"ha-pct">30%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=B9=D9=86=D8=A7=D9=8A=D8=A9 =D8=A8=D8=A7=D9=
+=84=D9=86=D9=81=D8=B3 =F0=9F=AA=AD=F0=9F=91=A0=F0=9F=92=84=F0=9F=9B=81=F0=
+=9F=AA=9E=F0=9F=A7=B4=F0=9F=AA=92</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:27%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">8/30</div>
+      <div class=3D"ha-pct">27%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=A7=D9=84=D8=AD=D8=B5=D9=88=D9=84 =D8=B9=D9=
+=84=D9=89 =D8=B9=D9=84=D8=A7=D9=85=D8=A9 =F0=9F=92=AF</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:27%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">8/30</div>
+      <div class=3D"ha-pct">27%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=A8=D8=B1=D9=85=D8=AC=D8=A9 30=D8=AF =F0=9F=
+=92=BB</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:27%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">8/30</div>
+      <div class=3D"ha-pct">27%</div></div><div class=3D"habit-analysis-row=
+">
+      <div class=3D"ha-name">=D8=AA=D9=86=D8=A7=D9=88=D9=84 =D9=81=D9=8A=D8=
+=AA=D8=A7=D9=85=D9=8A=D9=86=D8=A7=D8=AA=F0=9F=92=8A=F0=9F=AB=99=F0=9F=A6=B4=
+=F0=9F=94=8B=F0=9F=92=AA</div>
+      <div class=3D"ha-bar-wrap"><div class=3D"ha-bar" style=3D"width:20%;b=
+ackground:var(--red)"></div></div>
+      <div class=3D"ha-count">6/30</div>
+      <div class=3D"ha-pct">20%</div></div></div>
+  <div class=3D"chart-wrap">
+    <div style=3D"font-size:12px;font-weight:700;color:var(--gray-3);margin=
+-bottom:8px">=D9=86=D8=B3=D8=A8=D8=A9 =D8=A7=D9=84=D8=A5=D9=86=D8=AC=D8=A7=
+=D8=B2 =D8=A7=D9=84=D9=8A=D9=88=D9=85=D9=8A</div>
+    <div class=3D"chart-bars" id=3D"chartBars"><div class=3D"chart-bar-col"=
+><div class=3D"chart-bar" title=3D"=D9=8A=D9=88=D9=85 1: 100%" style=3D"hei=
+ght: 76px; background: var(--green);"></div><div class=3D"chart-day-label">=
+1</div></div><div class=3D"chart-bar-col"><div class=3D"chart-bar" title=3D=
+"=D9=8A=D9=88=D9=85 2: 96%" style=3D"height: 73px; background: var(--green)=
+;"></div><div class=3D"chart-day-label">2</div></div><div class=3D"chart-ba=
+r-col"><div class=3D"chart-bar" title=3D"=D9=8A=D9=88=D9=85 3: 96%" style=
+=3D"height: 73px; background: var(--green);"></div><div class=3D"chart-day-=
+label">3</div></div><div class=3D"chart-bar-col"><div class=3D"chart-bar" t=
+itle=3D"=D9=8A=D9=88=D9=85 4: 96%" style=3D"height: 73px; background: var(-=
+-green);"></div><div class=3D"chart-day-label">4</div></div><div class=3D"c=
+hart-bar-col"><div class=3D"chart-bar" title=3D"=D9=8A=D9=88=D9=85 5: 92%" =
+style=3D"height: 70px; background: var(--green);"></div><div class=3D"chart=
+-day-label">5</div></div><div class=3D"chart-bar-col"><div class=3D"chart-b=
+ar" title=3D"=D9=8A=D9=88=D9=85 6: 92%" style=3D"height: 70px; background: =
+var(--green);"></div><div class=3D"chart-day-label">6</div></div><div class=
+=3D"chart-bar-col"><div class=3D"chart-bar" title=3D"=D9=8A=D9=88=D9=85 7: =
+92%" style=3D"height: 70px; background: var(--green);"></div><div class=3D"=
+chart-day-label">7</div></div><div class=3D"chart-bar-col"><div class=3D"ch=
+art-bar" title=3D"=D9=8A=D9=88=D9=85 8: 88%" style=3D"height: 67px; backgro=
+und: var(--green);"></div><div class=3D"chart-day-label">8</div></div><div =
+class=3D"chart-bar-col"><div class=3D"chart-bar" title=3D"=D9=8A=D9=88=D9=
+=85 9: 44%" style=3D"height: 33px; background: var(--orange);"></div><div c=
+lass=3D"chart-day-label">9</div></div><div class=3D"chart-bar-col"><div cla=
+ss=3D"chart-bar" title=3D"=D9=8A=D9=88=D9=85 10: 0%" style=3D"height: 2px; =
+background: var(--red);"></div><div class=3D"chart-day-label">10</div></div=
+><div class=3D"chart-bar-col"><div class=3D"chart-bar" title=3D"=D9=8A=D9=
+=88=D9=85 11: 4%" style=3D"height: 3px; background: var(--red);"></div><div=
+ class=3D"chart-day-label">11</div></div><div class=3D"chart-bar-col"><div =
+class=3D"chart-bar" title=3D"=D9=8A=D9=88=D9=85 12: 0%" style=3D"height: 2p=
+x; background: var(--red);"></div><div class=3D"chart-day-label">12</div></=
+div><div class=3D"chart-bar-col"><div class=3D"chart-bar" title=3D"=D9=8A=
+=D9=88=D9=85 13: 0%" style=3D"height: 2px; background: var(--red);"></div><=
+div class=3D"chart-day-label">13</div></div><div class=3D"chart-bar-col"><d=
+iv class=3D"chart-bar" title=3D"=D9=8A=D9=88=D9=85 14: 8%" style=3D"height:=
+ 6px; background: var(--red);"></div><div class=3D"chart-day-label">14</div=
+></div><div class=3D"chart-bar-col"><div class=3D"chart-bar" title=3D"=D9=
+=8A=D9=88=D9=85 15: 12%" style=3D"height: 9px; background: var(--red);"></d=
+iv><div class=3D"chart-day-label">15</div></div><div class=3D"chart-bar-col=
+"><div class=3D"chart-bar" title=3D"=D9=8A=D9=88=D9=85 16: 4%" style=3D"hei=
+ght: 3px; background: var(--red);"></div><div class=3D"chart-day-label">16<=
+/div></div><div class=3D"chart-bar-col"><div class=3D"chart-bar" title=3D"=
+=D9=8A=D9=88=D9=85 17: 4%" style=3D"height: 3px; background: var(--red);"><=
+/div><div class=3D"chart-day-label">17</div></div><div class=3D"chart-bar-c=
+ol"><div class=3D"chart-bar" title=3D"=D9=8A=D9=88=D9=85 18: 4%" style=3D"h=
+eight: 3px; background: var(--red);"></div><div class=3D"chart-day-label">1=
+8</div></div><div class=3D"chart-bar-col"><div class=3D"chart-bar" title=3D=
+"=D9=8A=D9=88=D9=85 19: 4%" style=3D"height: 3px; background: var(--red);">=
+</div><div class=3D"chart-day-label">19</div></div><div class=3D"chart-bar-=
+col"><div class=3D"chart-bar" title=3D"=D9=8A=D9=88=D9=85 20: 12%" style=3D=
+"height: 9px; background: var(--red);"></div><div class=3D"chart-day-label"=
+>20</div></div><div class=3D"chart-bar-col"><div class=3D"chart-bar" title=
+=3D"=D9=8A=D9=88=D9=85 21: 12%" style=3D"height: 9px; background: var(--red=
+);"></div><div class=3D"chart-day-label">21</div></div><div class=3D"chart-=
+bar-col"><div class=3D"chart-bar" title=3D"=D9=8A=D9=88=D9=85 22: 8%" style=
+=3D"height: 6px; background: var(--red);"></div><div class=3D"chart-day-lab=
+el">22</div></div><div class=3D"chart-bar-col"><div class=3D"chart-bar" tit=
+le=3D"=D9=8A=D9=88=D9=85 23: 4%" style=3D"height: 3px; background: var(--re=
+d);"></div><div class=3D"chart-day-label">23</div></div><div class=3D"chart=
+-bar-col"><div class=3D"chart-bar" title=3D"=D9=8A=D9=88=D9=85 24: 16%" sty=
+le=3D"height: 12px; background: var(--red);"></div><div class=3D"chart-day-=
+label">24</div></div><div class=3D"chart-bar-col"><div class=3D"chart-bar" =
+title=3D"=D9=8A=D9=88=D9=85 25: 4%" style=3D"height: 3px; background: var(-=
+-red);"></div><div class=3D"chart-day-label">25</div></div><div class=3D"ch=
+art-bar-col"><div class=3D"chart-bar" title=3D"=D9=8A=D9=88=D9=85 26: 8%" s=
+tyle=3D"height: 6px; background: var(--red);"></div><div class=3D"chart-day=
+-label">26</div></div><div class=3D"chart-bar-col"><div class=3D"chart-bar"=
+ title=3D"=D9=8A=D9=88=D9=85 27: 8%" style=3D"height: 6px; background: var(=
+--red);"></div><div class=3D"chart-day-label">27</div></div><div class=3D"c=
+hart-bar-col"><div class=3D"chart-bar" title=3D"=D9=8A=D9=88=D9=85 28: 12%"=
+ style=3D"height: 9px; background: var(--red);"></div><div class=3D"chart-d=
+ay-label">28</div></div><div class=3D"chart-bar-col"><div class=3D"chart-ba=
+r" title=3D"=D9=8A=D9=88=D9=85 29: 8%" style=3D"height: 6px; background: va=
+r(--red);"></div><div class=3D"chart-day-label">29</div></div><div class=3D=
+"chart-bar-col"><div class=3D"chart-bar" title=3D"=D9=8A=D9=88=D9=85 30: 0%=
+" style=3D"height: 2px; background: var(--red);"></div><div class=3D"chart-=
+day-label">30</div></div></div>
+  </div>
+</div>
+
+<!-- Mental -->
+<div class=3D"mental-section">
+  <div class=3D"panel-title">=F0=9F=A7=A0 =D8=A7=D9=84=D8=AD=D8=A7=D9=84=D8=
+=A9 =D8=A7=D9=84=D8=B0=D9=87=D9=86=D9=8A=D8=A9 (1-10)</div>
+  <div class=3D"mental-row">
+    <div class=3D"mental-label">=D8=A7=D9=84=D9=85=D8=B2=D8=A7=D8=AC =F0=9F=
+=98=8A</div>
+    <div class=3D"mental-days" id=3D"moodRow"><input type=3D"number" min=3D=
+"1" max=3D"10" class=3D"mental-input" placeholder=3D"1" title=3D"=D9=8A=D9=
+=88=D9=85 1"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-in=
+put" placeholder=3D"2" title=3D"=D9=8A=D9=88=D9=85 2"><input type=3D"number=
+" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"3" title=3D"=
+=D9=8A=D9=88=D9=85 3"><input type=3D"number" min=3D"1" max=3D"10" class=3D"=
+mental-input" placeholder=3D"4" title=3D"=D9=8A=D9=88=D9=85 4"><input type=
+=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"5" t=
+itle=3D"=D9=8A=D9=88=D9=85 5"><input type=3D"number" min=3D"1" max=3D"10" c=
+lass=3D"mental-input" placeholder=3D"6" title=3D"=D9=8A=D9=88=D9=85 6"><inp=
+ut type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=
+=3D"7" title=3D"=D9=8A=D9=88=D9=85 7"><input type=3D"number" min=3D"1" max=
+=3D"10" class=3D"mental-input" placeholder=3D"8" title=3D"=D9=8A=D9=88=D9=
+=85 8"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" p=
+laceholder=3D"9" title=3D"=D9=8A=D9=88=D9=85 9"><input type=3D"number" min=
+=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"10" title=3D"=D9=8A=
+=D9=88=D9=85 10"><input type=3D"number" min=3D"1" max=3D"10" class=3D"menta=
+l-input" placeholder=3D"11" title=3D"=D9=8A=D9=88=D9=85 11"><input type=3D"=
+number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"12" titl=
+e=3D"=D9=8A=D9=88=D9=85 12"><input type=3D"number" min=3D"1" max=3D"10" cla=
+ss=3D"mental-input" placeholder=3D"13" title=3D"=D9=8A=D9=88=D9=85 13"><inp=
+ut type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=
+=3D"14" title=3D"=D9=8A=D9=88=D9=85 14"><input type=3D"number" min=3D"1" ma=
+x=3D"10" class=3D"mental-input" placeholder=3D"15" title=3D"=D9=8A=D9=88=D9=
+=85 15"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" =
+placeholder=3D"16" title=3D"=D9=8A=D9=88=D9=85 16"><input type=3D"number" m=
+in=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"17" title=3D"=D9=
+=8A=D9=88=D9=85 17"><input type=3D"number" min=3D"1" max=3D"10" class=3D"me=
+ntal-input" placeholder=3D"18" title=3D"=D9=8A=D9=88=D9=85 18"><input type=
+=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"19" =
+title=3D"=D9=8A=D9=88=D9=85 19"><input type=3D"number" min=3D"1" max=3D"10"=
+ class=3D"mental-input" placeholder=3D"20" title=3D"=D9=8A=D9=88=D9=85 20">=
+<input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placehol=
+der=3D"21" title=3D"=D9=8A=D9=88=D9=85 21"><input type=3D"number" min=3D"1"=
+ max=3D"10" class=3D"mental-input" placeholder=3D"22" title=3D"=D9=8A=D9=88=
+=D9=85 22"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-inpu=
+t" placeholder=3D"23" title=3D"=D9=8A=D9=88=D9=85 23"><input type=3D"number=
+" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"24" title=3D"=
+=D9=8A=D9=88=D9=85 24"><input type=3D"number" min=3D"1" max=3D"10" class=3D=
+"mental-input" placeholder=3D"25" title=3D"=D9=8A=D9=88=D9=85 25"><input ty=
+pe=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"26=
+" title=3D"=D9=8A=D9=88=D9=85 26"><input type=3D"number" min=3D"1" max=3D"1=
+0" class=3D"mental-input" placeholder=3D"27" title=3D"=D9=8A=D9=88=D9=85 27=
+"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeh=
+older=3D"28" title=3D"=D9=8A=D9=88=D9=85 28"><input type=3D"number" min=3D"=
+1" max=3D"10" class=3D"mental-input" placeholder=3D"29" title=3D"=D9=8A=D9=
+=88=D9=85 29"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-i=
+nput" placeholder=3D"30" title=3D"=D9=8A=D9=88=D9=85 30"><input type=3D"num=
+ber" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"1" title=3D=
+"=D9=8A=D9=88=D9=85 1"><input type=3D"number" min=3D"1" max=3D"10" class=3D=
+"mental-input" placeholder=3D"2" title=3D"=D9=8A=D9=88=D9=85 2"><input type=
+=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"3" t=
+itle=3D"=D9=8A=D9=88=D9=85 3"><input type=3D"number" min=3D"1" max=3D"10" c=
+lass=3D"mental-input" placeholder=3D"4" title=3D"=D9=8A=D9=88=D9=85 4"><inp=
+ut type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=
+=3D"5" title=3D"=D9=8A=D9=88=D9=85 5"><input type=3D"number" min=3D"1" max=
+=3D"10" class=3D"mental-input" placeholder=3D"6" title=3D"=D9=8A=D9=88=D9=
+=85 6"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" p=
+laceholder=3D"7" title=3D"=D9=8A=D9=88=D9=85 7"><input type=3D"number" min=
+=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"8" title=3D"=D9=8A=
+=D9=88=D9=85 8"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental=
+-input" placeholder=3D"9" title=3D"=D9=8A=D9=88=D9=85 9"><input type=3D"num=
+ber" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"10" title=
+=3D"=D9=8A=D9=88=D9=85 10"><input type=3D"number" min=3D"1" max=3D"10" clas=
+s=3D"mental-input" placeholder=3D"11" title=3D"=D9=8A=D9=88=D9=85 11"><inpu=
+t type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=
+=3D"12" title=3D"=D9=8A=D9=88=D9=85 12"><input type=3D"number" min=3D"1" ma=
+x=3D"10" class=3D"mental-input" placeholder=3D"13" title=3D"=D9=8A=D9=88=D9=
+=85 13"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" =
+placeholder=3D"14" title=3D"=D9=8A=D9=88=D9=85 14"><input type=3D"number" m=
+in=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"15" title=3D"=D9=
+=8A=D9=88=D9=85 15"><input type=3D"number" min=3D"1" max=3D"10" class=3D"me=
+ntal-input" placeholder=3D"16" title=3D"=D9=8A=D9=88=D9=85 16"><input type=
+=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"17" =
+title=3D"=D9=8A=D9=88=D9=85 17"><input type=3D"number" min=3D"1" max=3D"10"=
+ class=3D"mental-input" placeholder=3D"18" title=3D"=D9=8A=D9=88=D9=85 18">=
+<input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placehol=
+der=3D"19" title=3D"=D9=8A=D9=88=D9=85 19"><input type=3D"number" min=3D"1"=
+ max=3D"10" class=3D"mental-input" placeholder=3D"20" title=3D"=D9=8A=D9=88=
+=D9=85 20"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-inpu=
+t" placeholder=3D"21" title=3D"=D9=8A=D9=88=D9=85 21"><input type=3D"number=
+" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"22" title=3D"=
+=D9=8A=D9=88=D9=85 22"><input type=3D"number" min=3D"1" max=3D"10" class=3D=
+"mental-input" placeholder=3D"23" title=3D"=D9=8A=D9=88=D9=85 23"><input ty=
+pe=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"24=
+" title=3D"=D9=8A=D9=88=D9=85 24"><input type=3D"number" min=3D"1" max=3D"1=
+0" class=3D"mental-input" placeholder=3D"25" title=3D"=D9=8A=D9=88=D9=85 25=
+"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeh=
+older=3D"26" title=3D"=D9=8A=D9=88=D9=85 26"><input type=3D"number" min=3D"=
+1" max=3D"10" class=3D"mental-input" placeholder=3D"27" title=3D"=D9=8A=D9=
+=88=D9=85 27"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-i=
+nput" placeholder=3D"28" title=3D"=D9=8A=D9=88=D9=85 28"><input type=3D"num=
+ber" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"29" title=
+=3D"=D9=8A=D9=88=D9=85 29"><input type=3D"number" min=3D"1" max=3D"10" clas=
+s=3D"mental-input" placeholder=3D"30" title=3D"=D9=8A=D9=88=D9=85 30"></div=
+>
+  </div>
+  <div class=3D"mental-row">
+    <div class=3D"mental-label">=D8=A7=D9=84=D8=AA=D8=AD=D9=81=D9=8A=D8=B2 =
+=F0=9F=94=A5</div>
+    <div class=3D"mental-days" id=3D"motivRow"><input type=3D"number" min=
+=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"1" title=3D"=D9=8A=
+=D9=88=D9=85 1"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental=
+-input" placeholder=3D"2" title=3D"=D9=8A=D9=88=D9=85 2"><input type=3D"num=
+ber" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"3" title=3D=
+"=D9=8A=D9=88=D9=85 3"><input type=3D"number" min=3D"1" max=3D"10" class=3D=
+"mental-input" placeholder=3D"4" title=3D"=D9=8A=D9=88=D9=85 4"><input type=
+=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"5" t=
+itle=3D"=D9=8A=D9=88=D9=85 5"><input type=3D"number" min=3D"1" max=3D"10" c=
+lass=3D"mental-input" placeholder=3D"6" title=3D"=D9=8A=D9=88=D9=85 6"><inp=
+ut type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=
+=3D"7" title=3D"=D9=8A=D9=88=D9=85 7"><input type=3D"number" min=3D"1" max=
+=3D"10" class=3D"mental-input" placeholder=3D"8" title=3D"=D9=8A=D9=88=D9=
+=85 8"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" p=
+laceholder=3D"9" title=3D"=D9=8A=D9=88=D9=85 9"><input type=3D"number" min=
+=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"10" title=3D"=D9=8A=
+=D9=88=D9=85 10"><input type=3D"number" min=3D"1" max=3D"10" class=3D"menta=
+l-input" placeholder=3D"11" title=3D"=D9=8A=D9=88=D9=85 11"><input type=3D"=
+number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"12" titl=
+e=3D"=D9=8A=D9=88=D9=85 12"><input type=3D"number" min=3D"1" max=3D"10" cla=
+ss=3D"mental-input" placeholder=3D"13" title=3D"=D9=8A=D9=88=D9=85 13"><inp=
+ut type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=
+=3D"14" title=3D"=D9=8A=D9=88=D9=85 14"><input type=3D"number" min=3D"1" ma=
+x=3D"10" class=3D"mental-input" placeholder=3D"15" title=3D"=D9=8A=D9=88=D9=
+=85 15"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" =
+placeholder=3D"16" title=3D"=D9=8A=D9=88=D9=85 16"><input type=3D"number" m=
+in=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"17" title=3D"=D9=
+=8A=D9=88=D9=85 17"><input type=3D"number" min=3D"1" max=3D"10" class=3D"me=
+ntal-input" placeholder=3D"18" title=3D"=D9=8A=D9=88=D9=85 18"><input type=
+=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"19" =
+title=3D"=D9=8A=D9=88=D9=85 19"><input type=3D"number" min=3D"1" max=3D"10"=
+ class=3D"mental-input" placeholder=3D"20" title=3D"=D9=8A=D9=88=D9=85 20">=
+<input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placehol=
+der=3D"21" title=3D"=D9=8A=D9=88=D9=85 21"><input type=3D"number" min=3D"1"=
+ max=3D"10" class=3D"mental-input" placeholder=3D"22" title=3D"=D9=8A=D9=88=
+=D9=85 22"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-inpu=
+t" placeholder=3D"23" title=3D"=D9=8A=D9=88=D9=85 23"><input type=3D"number=
+" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"24" title=3D"=
+=D9=8A=D9=88=D9=85 24"><input type=3D"number" min=3D"1" max=3D"10" class=3D=
+"mental-input" placeholder=3D"25" title=3D"=D9=8A=D9=88=D9=85 25"><input ty=
+pe=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"26=
+" title=3D"=D9=8A=D9=88=D9=85 26"><input type=3D"number" min=3D"1" max=3D"1=
+0" class=3D"mental-input" placeholder=3D"27" title=3D"=D9=8A=D9=88=D9=85 27=
+"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeh=
+older=3D"28" title=3D"=D9=8A=D9=88=D9=85 28"><input type=3D"number" min=3D"=
+1" max=3D"10" class=3D"mental-input" placeholder=3D"29" title=3D"=D9=8A=D9=
+=88=D9=85 29"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-i=
+nput" placeholder=3D"30" title=3D"=D9=8A=D9=88=D9=85 30"><input type=3D"num=
+ber" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"1" title=3D=
+"=D9=8A=D9=88=D9=85 1"><input type=3D"number" min=3D"1" max=3D"10" class=3D=
+"mental-input" placeholder=3D"2" title=3D"=D9=8A=D9=88=D9=85 2"><input type=
+=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"3" t=
+itle=3D"=D9=8A=D9=88=D9=85 3"><input type=3D"number" min=3D"1" max=3D"10" c=
+lass=3D"mental-input" placeholder=3D"4" title=3D"=D9=8A=D9=88=D9=85 4"><inp=
+ut type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=
+=3D"5" title=3D"=D9=8A=D9=88=D9=85 5"><input type=3D"number" min=3D"1" max=
+=3D"10" class=3D"mental-input" placeholder=3D"6" title=3D"=D9=8A=D9=88=D9=
+=85 6"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" p=
+laceholder=3D"7" title=3D"=D9=8A=D9=88=D9=85 7"><input type=3D"number" min=
+=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"8" title=3D"=D9=8A=
+=D9=88=D9=85 8"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental=
+-input" placeholder=3D"9" title=3D"=D9=8A=D9=88=D9=85 9"><input type=3D"num=
+ber" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"10" title=
+=3D"=D9=8A=D9=88=D9=85 10"><input type=3D"number" min=3D"1" max=3D"10" clas=
+s=3D"mental-input" placeholder=3D"11" title=3D"=D9=8A=D9=88=D9=85 11"><inpu=
+t type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=
+=3D"12" title=3D"=D9=8A=D9=88=D9=85 12"><input type=3D"number" min=3D"1" ma=
+x=3D"10" class=3D"mental-input" placeholder=3D"13" title=3D"=D9=8A=D9=88=D9=
+=85 13"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" =
+placeholder=3D"14" title=3D"=D9=8A=D9=88=D9=85 14"><input type=3D"number" m=
+in=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"15" title=3D"=D9=
+=8A=D9=88=D9=85 15"><input type=3D"number" min=3D"1" max=3D"10" class=3D"me=
+ntal-input" placeholder=3D"16" title=3D"=D9=8A=D9=88=D9=85 16"><input type=
+=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"17" =
+title=3D"=D9=8A=D9=88=D9=85 17"><input type=3D"number" min=3D"1" max=3D"10"=
+ class=3D"mental-input" placeholder=3D"18" title=3D"=D9=8A=D9=88=D9=85 18">=
+<input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placehol=
+der=3D"19" title=3D"=D9=8A=D9=88=D9=85 19"><input type=3D"number" min=3D"1"=
+ max=3D"10" class=3D"mental-input" placeholder=3D"20" title=3D"=D9=8A=D9=88=
+=D9=85 20"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-inpu=
+t" placeholder=3D"21" title=3D"=D9=8A=D9=88=D9=85 21"><input type=3D"number=
+" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"22" title=3D"=
+=D9=8A=D9=88=D9=85 22"><input type=3D"number" min=3D"1" max=3D"10" class=3D=
+"mental-input" placeholder=3D"23" title=3D"=D9=8A=D9=88=D9=85 23"><input ty=
+pe=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"24=
+" title=3D"=D9=8A=D9=88=D9=85 24"><input type=3D"number" min=3D"1" max=3D"1=
+0" class=3D"mental-input" placeholder=3D"25" title=3D"=D9=8A=D9=88=D9=85 25=
+"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-input" placeh=
+older=3D"26" title=3D"=D9=8A=D9=88=D9=85 26"><input type=3D"number" min=3D"=
+1" max=3D"10" class=3D"mental-input" placeholder=3D"27" title=3D"=D9=8A=D9=
+=88=D9=85 27"><input type=3D"number" min=3D"1" max=3D"10" class=3D"mental-i=
+nput" placeholder=3D"28" title=3D"=D9=8A=D9=88=D9=85 28"><input type=3D"num=
+ber" min=3D"1" max=3D"10" class=3D"mental-input" placeholder=3D"29" title=
+=3D"=D9=8A=D9=88=D9=85 29"><input type=3D"number" min=3D"1" max=3D"10" clas=
+s=3D"mental-input" placeholder=3D"30" title=3D"=D9=8A=D9=88=D9=85 30"></div=
+>
+  </div>
+</div>
+
+<!-- Sleep tracker -->
+<div class=3D"sleep-section">
+  <div class=3D"panel-title">=F0=9F=98=B4 =D8=AA=D8=AA=D8=A8=D8=B9 =D8=A7=
+=D9=84=D9=86=D9=88=D9=85 (=D8=B3=D8=A7=D8=B9=D8=A7=D8=AA)</div>
+  <div class=3D"sleep-inputs-row" id=3D"sleepInputsRow"><div class=3D"sleep=
+-input-wrap"><div class=3D"sleep-day-lbl">1</div><input type=3D"number" min=
+=3D"0" max=3D"24" step=3D"0.5" class=3D"sleep-input good" placeholder=3D"=
+=E2=80=94" title=3D"=D9=8A=D9=88=D9=85 1"></div><div class=3D"sleep-input-w=
+rap"><div class=3D"sleep-day-lbl">2</div><input type=3D"number" min=3D"0" m=
+ax=3D"24" step=3D"0.5" class=3D"sleep-input good" placeholder=3D"=E2=80=94"=
+ title=3D"=D9=8A=D9=88=D9=85 2"></div><div class=3D"sleep-input-wrap"><div =
+class=3D"sleep-day-lbl">3</div><input type=3D"number" min=3D"0" max=3D"24" =
+step=3D"0.5" class=3D"sleep-input good" placeholder=3D"=E2=80=94" title=3D"=
+=D9=8A=D9=88=D9=85 3"></div><div class=3D"sleep-input-wrap"><div class=3D"s=
+leep-day-lbl">4</div><input type=3D"number" min=3D"0" max=3D"24" step=3D"0.=
+5" class=3D"sleep-input good" placeholder=3D"=E2=80=94" title=3D"=D9=8A=D9=
+=88=D9=85 4"></div><div class=3D"sleep-input-wrap"><div class=3D"sleep-day-=
+lbl">5</div><input type=3D"number" min=3D"0" max=3D"24" step=3D"0.5" class=
+=3D"sleep-input good" placeholder=3D"=E2=80=94" title=3D"=D9=8A=D9=88=D9=85=
+ 5"></div><div class=3D"sleep-input-wrap"><div class=3D"sleep-day-lbl">6</d=
+iv><input type=3D"number" min=3D"0" max=3D"24" step=3D"0.5" class=3D"sleep-=
+input good" placeholder=3D"=E2=80=94" title=3D"=D9=8A=D9=88=D9=85 6"></div>=
+<div class=3D"sleep-input-wrap"><div class=3D"sleep-day-lbl">7</div><input =
+type=3D"number" min=3D"0" max=3D"24" step=3D"0.5" class=3D"sleep-input good=
+" placeholder=3D"=E2=80=94" title=3D"=D9=8A=D9=88=D9=85 7"></div><div class=
+=3D"sleep-input-wrap"><div class=3D"sleep-day-lbl">8</div><input type=3D"nu=
+mber" min=3D"0" max=3D"24" step=3D"0.5" class=3D"sleep-input good" placehol=
+der=3D"=E2=80=94" title=3D"=D9=8A=D9=88=D9=85 8"></div><div class=3D"sleep-=
+input-wrap"><div class=3D"sleep-day-lbl">9</div><input type=3D"number" min=
+=3D"0" max=3D"24" step=3D"0.5" class=3D"sleep-input good" placeholder=3D"=
+=E2=80=94" title=3D"=D9=8A=D9=88=D9=85 9"></div><div class=3D"sleep-input-w=
+rap"><div class=3D"sleep-day-lbl">10</div><input type=3D"number" min=3D"0" =
+max=3D"24" step=3D"0.5" class=3D"sleep-input" placeholder=3D"=E2=80=94" tit=
+le=3D"=D9=8A=D9=88=D9=85 10"></div><div class=3D"sleep-input-wrap"><div cla=
+ss=3D"sleep-day-lbl">11</div><input type=3D"number" min=3D"0" max=3D"24" st=
+ep=3D"0.5" class=3D"sleep-input" placeholder=3D"=E2=80=94" title=3D"=D9=8A=
+=D9=88=D9=85 11"></div><div class=3D"sleep-input-wrap"><div class=3D"sleep-=
+day-lbl">12</div><input type=3D"number" min=3D"0" max=3D"24" step=3D"0.5" c=
+lass=3D"sleep-input" placeholder=3D"=E2=80=94" title=3D"=D9=8A=D9=88=D9=85 =
+12"></div><div class=3D"sleep-input-wrap"><div class=3D"sleep-day-lbl">13</=
+div><input type=3D"number" min=3D"0" max=3D"24" step=3D"0.5" class=3D"sleep=
+-input" placeholder=3D"=E2=80=94" title=3D"=D9=8A=D9=88=D9=85 13"></div><di=
+v class=3D"sleep-input-wrap"><div class=3D"sleep-day-lbl">14</div><input ty=
+pe=3D"number" min=3D"0" max=3D"24" step=3D"0.5" class=3D"sleep-input" place=
+holder=3D"=E2=80=94" title=3D"=D9=8A=D9=88=D9=85 14"></div><div class=3D"sl=
+eep-input-wrap"><div class=3D"sleep-day-lbl">15</div><input type=3D"number"=
+ min=3D"0" max=3D"24" step=3D"0.5" class=3D"sleep-input" placeholder=3D"=E2=
+=80=94" title=3D"=D9=8A=D9=88=D9=85 15"></div><div class=3D"sleep-input-wra=
+p"><div class=3D"sleep-day-lbl">16</div><input type=3D"number" min=3D"0" ma=
+x=3D"24" step=3D"0.5" class=3D"sleep-input" placeholder=3D"=E2=80=94" title=
+=3D"=D9=8A=D9=88=D9=85 16"></div><div class=3D"sleep-input-wrap"><div class=
+=3D"sleep-day-lbl">17</div><input type=3D"number" min=3D"0" max=3D"24" step=
+=3D"0.5" class=3D"sleep-input" placeholder=3D"=E2=80=94" title=3D"=D9=8A=D9=
+=88=D9=85 17"></div><div class=3D"sleep-input-wrap"><div class=3D"sleep-day=
+-lbl">18</div><input type=3D"number" min=3D"0" max=3D"24" step=3D"0.5" clas=
+s=3D"sleep-input" placeholder=3D"=E2=80=94" title=3D"=D9=8A=D9=88=D9=85 18"=
+></div><div class=3D"sleep-input-wrap"><div class=3D"sleep-day-lbl">19</div=
+><input type=3D"number" min=3D"0" max=3D"24" step=3D"0.5" class=3D"sleep-in=
+put" placeholder=3D"=E2=80=94" title=3D"=D9=8A=D9=88=D9=85 19"></div><div c=
+lass=3D"sleep-input-wrap"><div class=3D"sleep-day-lbl">20</div><input type=
+=3D"number" min=3D"0" max=3D"24" step=3D"0.5" class=3D"sleep-input" placeho=
+lder=3D"=E2=80=94" title=3D"=D9=8A=D9=88=D9=85 20"></div><div class=3D"slee=
+p-input-wrap"><div class=3D"sleep-day-lbl">21</div><input type=3D"number" m=
+in=3D"0" max=3D"24" step=3D"0.5" class=3D"sleep-input" placeholder=3D"=E2=
+=80=94" title=3D"=D9=8A=D9=88=D9=85 21"></div><div class=3D"sleep-input-wra=
+p"><div class=3D"sleep-day-lbl">22</div><input type=3D"number" min=3D"0" ma=
+x=3D"24" step=3D"0.5" class=3D"sleep-input" placeholder=3D"=E2=80=94" title=
+=3D"=D9=8A=D9=88=D9=85 22"></div><div class=3D"sleep-input-wrap"><div class=
+=3D"sleep-day-lbl">23</div><input type=3D"number" min=3D"0" max=3D"24" step=
+=3D"0.5" class=3D"sleep-input" placeholder=3D"=E2=80=94" title=3D"=D9=8A=D9=
+=88=D9=85 23"></div><div class=3D"sleep-input-wrap"><div class=3D"sleep-day=
+-lbl">24</div><input type=3D"number" min=3D"0" max=3D"24" step=3D"0.5" clas=
+s=3D"sleep-input" placeholder=3D"=E2=80=94" title=3D"=D9=8A=D9=88=D9=85 24"=
+></div><div class=3D"sleep-input-wrap"><div class=3D"sleep-day-lbl">25</div=
+><input type=3D"number" min=3D"0" max=3D"24" step=3D"0.5" class=3D"sleep-in=
+put" placeholder=3D"=E2=80=94" title=3D"=D9=8A=D9=88=D9=85 25"></div><div c=
+lass=3D"sleep-input-wrap"><div class=3D"sleep-day-lbl">26</div><input type=
+=3D"number" min=3D"0" max=3D"24" step=3D"0.5" class=3D"sleep-input" placeho=
+lder=3D"=E2=80=94" title=3D"=D9=8A=D9=88=D9=85 26"></div><div class=3D"slee=
+p-input-wrap"><div class=3D"sleep-day-lbl">27</div><input type=3D"number" m=
+in=3D"0" max=3D"24" step=3D"0.5" class=3D"sleep-input" placeholder=3D"=E2=
+=80=94" title=3D"=D9=8A=D9=88=D9=85 27"></div><div class=3D"sleep-input-wra=
+p"><div class=3D"sleep-day-lbl">28</div><input type=3D"number" min=3D"0" ma=
+x=3D"24" step=3D"0.5" class=3D"sleep-input" placeholder=3D"=E2=80=94" title=
+=3D"=D9=8A=D9=88=D9=85 28"></div><div class=3D"sleep-input-wrap"><div class=
+=3D"sleep-day-lbl">29</div><input type=3D"number" min=3D"0" max=3D"24" step=
+=3D"0.5" class=3D"sleep-input" placeholder=3D"=E2=80=94" title=3D"=D9=8A=D9=
+=88=D9=85 29"></div><div class=3D"sleep-input-wrap"><div class=3D"sleep-day=
+-lbl">30</div><input type=3D"number" min=3D"0" max=3D"24" step=3D"0.5" clas=
+s=3D"sleep-input" placeholder=3D"=E2=80=94" title=3D"=D9=8A=D9=88=D9=85 30"=
+></div></div>
+  <div class=3D"sleep-chart-wrap">
+    <div class=3D"sleep-chart-title">
+      <span>=F0=9F=93=88 =D9=85=D8=AE=D8=B7=D8=B7 =D8=B3=D8=A7=D8=B9=D8=A7=
+=D8=AA =D8=A7=D9=84=D9=86=D9=88=D9=85 =D8=A7=D9=84=D9=8A=D9=88=D9=85=D9=8A=
+=D8=A9</span>
+      <span class=3D"sleep-avg-badge" id=3D"sleepAvgBadge">=D8=A7=D9=84=D9=
+=85=D8=AA=D9=88=D8=B3=D8=B7: 8.2 =D8=B3=D8=A7=D8=B9=D8=A9</span>
+    </div>
+    <div class=3D"sleep-chart-box">
+      <div class=3D"sleep-y-axis" id=3D"sleepYAxis"><div class=3D"sleep-y-l=
+bl">12</div><div class=3D"sleep-y-lbl">10</div><div class=3D"sleep-y-lbl">8=
+</div><div class=3D"sleep-y-lbl">6</div><div class=3D"sleep-y-lbl">4</div><=
+div class=3D"sleep-y-lbl">2</div><div class=3D"sleep-y-lbl">0</div></div>
+      <svg class=3D"sleep-svg" id=3D"sleepSvg" viewBox=3D"0 0 100 100" pres=
+erveAspectRatio=3D"none" style=3D"overflow:visible"><rect x=3D"0" width=3D"=
+100" y=3D"25.0" height=3D"16.7" fill=3D"rgba(61,170,107,0.10)"></rect><line=
+ x1=3D"0" x2=3D"100" y1=3D"50.0" y2=3D"50.0" stroke=3D"rgba(200,196,186,0.4=
+)" stroke-width=3D"0.4" stroke-dasharray=3D"2,2"></line><line x1=3D"0" x2=
+=3D"100" y1=3D"41.7" y2=3D"41.7" stroke=3D"rgba(61,170,107,0.4)" stroke-wid=
+th=3D"0.8" stroke-dasharray=3D""></line><line x1=3D"0" x2=3D"100" y1=3D"33.=
+3" y2=3D"33.3" stroke=3D"rgba(200,196,186,0.4)" stroke-width=3D"0.4" stroke=
+-dasharray=3D"2,2"></line><line x1=3D"0" x2=3D"100" y1=3D"25.0" y2=3D"25.0"=
+ stroke=3D"rgba(61,170,107,0.4)" stroke-width=3D"0.8" stroke-dasharray=3D""=
+></line><line x1=3D"0" x2=3D"100" y1=3D"16.7" y2=3D"16.7" stroke=3D"rgba(20=
+0,196,186,0.4)" stroke-width=3D"0.4" stroke-dasharray=3D"2,2"></line><path =
+d=3D"M0.00,25.00 L3.45,33.33 L6.90,33.33 L10.34,25.00 L13.79,25.00 L17.24,3=
+3.33 L20.69,41.67 L24.14,33.33 L27.59,33.33" fill=3D"none" stroke=3D"rgba(3=
+6,113,163,0.15)" stroke-width=3D"3" stroke-linecap=3D"round" stroke-linejoi=
+n=3D"round"></path><path d=3D"M0.00,25.00 L3.45,33.33 L6.90,33.33 L10.34,25=
+.00 L13.79,25.00 L17.24,33.33 L20.69,41.67 L24.14,33.33 L27.59,33.33" fill=
+=3D"none" stroke=3D"#2471A3" stroke-width=3D"1.8" stroke-linecap=3D"round" =
+stroke-linejoin=3D"round"></path><circle cx=3D"0.00" cy=3D"25.00" r=3D"2" f=
+ill=3D"#3DAA6B" stroke=3D"white" stroke-width=3D"0.6"></circle><circle cx=
+=3D"3.45" cy=3D"33.33" r=3D"2" fill=3D"#3DAA6B" stroke=3D"white" stroke-wid=
+th=3D"0.6"></circle><circle cx=3D"6.90" cy=3D"33.33" r=3D"2" fill=3D"#3DAA6=
+B" stroke=3D"white" stroke-width=3D"0.6"></circle><circle cx=3D"10.34" cy=
+=3D"25.00" r=3D"2" fill=3D"#3DAA6B" stroke=3D"white" stroke-width=3D"0.6"><=
+/circle><circle cx=3D"13.79" cy=3D"25.00" r=3D"2" fill=3D"#3DAA6B" stroke=
+=3D"white" stroke-width=3D"0.6"></circle><circle cx=3D"17.24" cy=3D"33.33" =
+r=3D"2" fill=3D"#3DAA6B" stroke=3D"white" stroke-width=3D"0.6"></circle><ci=
+rcle cx=3D"20.69" cy=3D"41.67" r=3D"2" fill=3D"#3DAA6B" stroke=3D"white" st=
+roke-width=3D"0.6"></circle><circle cx=3D"24.14" cy=3D"33.33" r=3D"2" fill=
+=3D"#3DAA6B" stroke=3D"white" stroke-width=3D"0.6"></circle><circle cx=3D"2=
+7.59" cy=3D"33.33" r=3D"2" fill=3D"#3DAA6B" stroke=3D"white" stroke-width=
+=3D"0.6"></circle></svg>
+    </div>
+    <div class=3D"sleep-legend">
+      <div class=3D"sleep-leg"><div class=3D"sleep-leg-dot" style=3D"backgr=
+ound:#2471A3"></div>=D8=B3=D8=A7=D8=B9=D8=A7=D8=AA =D8=A7=D9=84=D9=86=D9=88=
+=D9=85</div>
+      <div class=3D"sleep-leg"><div class=3D"sleep-leg-dot" style=3D"backgr=
+ound:var(--green);border-radius:0;width:18px;height:3px"></div>=D8=A7=D9=84=
+=D9=85=D8=AB=D8=A7=D9=84=D9=8A (7-9)</div>
+      <div class=3D"sleep-leg"><div class=3D"sleep-leg-dot" style=3D"backgr=
+ound:var(--red)"></div>=D8=A3=D9=82=D9=84 =D9=85=D9=86 6</div>
+      <div class=3D"sleep-leg"><div class=3D"sleep-leg-dot" style=3D"backgr=
+ound:var(--orange)"></div>=D8=A3=D9=83=D8=AB=D8=B1 =D9=85=D9=86 10</div>
+    </div>
+  </div>
+</div>
+
+<div style=3D"text-align:center;font-size:11px;color:var(--gray-2);padding-=
+bottom:10px">=F0=9F=92=BE =D9=8A=D8=AA=D9=85 =D8=AD=D9=81=D8=B8 =D8=A8=D9=
+=8A=D8=A7=D9=86=D8=A7=D8=AA=D9=83 =D8=AA=D9=84=D9=82=D8=A7=D8=A6=D9=8A=D8=
+=A7=D9=8B</div>
+
+
+
+
+</body></html>
+------MultipartBoundary--HHo4nauaptE5qi0E7WqzfRBqAX4JrR1G9o2X0p0wNi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/LENOVO/Downloads/%D9%85%D8%AA%D8%AA%D8%A8%D8%B9%20%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA_files/css2
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--HHo4nauaptE5qi0E7WqzfRBqAX4JrR1G9o2X0p0wNi----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-44081552-ff63-4c2b-b669-caf7058f33f7@mhtml.blink
+
+@charset "utf-8";
+
+:root { --orange: #E8733A; --orange-light: #FDF0E8; --orange-mid: #F5A97A; =
+--green: #3DAA6B; --green-light: #EAF7EF; --green-dark: #1E6B41; --bg: #F7F=
+6F3; --gray-1: #ECEAE4; --gray-2: #C8C4BA; --gray-3: #8C8880; --gray-4: #4A=
+4845; --white: #FFFFFF; --red-light: #FEF0F0; --red: #D94040; --purple: #7B=
+4FBE; --purple-light: #F3EEFF; }
+
+* { box-sizing: border-box; margin: 0px; padding: 0px; }
+
+body { font-family: Tajawal, sans-serif; background: var(--bg); color: var(=
+--gray-4); min-height: 100vh; padding: 24px 16px 40px; }
+
+.header { background: var(--orange); border-radius: 20px; padding: 20px 28p=
+x; margin-bottom: 20px; display: flex; align-items: center; justify-content=
+: space-between; flex-wrap: wrap; gap: 16px; box-shadow: rgba(232, 115, 58,=
+ 0.3) 0px 4px 20px; }
+
+.header-title { color: white; font-size: 24px; font-weight: 800; }
+
+.header-month { color: rgba(255, 255, 255, 0.8); font-size: 14px; font-weig=
+ht: 500; margin-top: 2px; }
+
+.stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; m=
+argin-bottom: 20px; }
+
+.stat-card { background: white; border-radius: 14px; padding: 14px 16px; te=
+xt-align: center; box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 8px; }
+
+.stat-value { font-size: 26px; font-weight: 800; color: var(--orange); line=
+-height: 1; }
+
+.stat-value.green { color: var(--green); }
+
+.stat-label { font-size: 11px; color: var(--gray-3); margin-top: 4px; font-=
+weight: 500; }
+
+.progress-wrap { background: var(--gray-1); border-radius: 20px; height: 8p=
+x; margin-top: 8px; overflow: hidden; }
+
+.progress-bar { height: 100%; background: var(--orange); border-radius: 20p=
+x; transition: width 0.4s; }
+
+.toolbar { display: flex; gap: 10px; margin-bottom: 16px; flex-wrap: wrap; =
+}
+
+.btn-toolbar { display: flex; align-items: center; gap: 6px; padding: 9px 1=
+8px; border-radius: 20px; border: 1.5px solid var(--gray-2); background: wh=
+ite; font-family: Tajawal, sans-serif; font-size: 13px; font-weight: 700; c=
+olor: var(--gray-3); cursor: pointer; transition: 0.15s; }
+
+.btn-toolbar:hover { border-color: var(--orange); color: var(--orange); }
+
+.btn-toolbar.green-btn { border-color: var(--green); color: var(--green); }
+
+.btn-toolbar.green-btn:hover { background: var(--green-light); }
+
+.btn-toolbar.active { background: var(--orange-light); border-color: var(--=
+orange); color: var(--orange); }
+
+.tracker-card { background: white; border-radius: 20px; box-shadow: rgba(0,=
+ 0, 0, 0.08) 0px 2px 16px; overflow: hidden; margin-bottom: 20px; }
+
+.table-wrapper { overflow-x: auto; }
+
+table { border-collapse: collapse; width: 100%; min-width: 960px; }
+
+.week-header th { padding: 8px 4px; font-size: 11px; font-weight: 700; colo=
+r: var(--gray-3); text-align: center; border-bottom: 1px solid var(--gray-1=
+); }
+
+.week-label { background: var(--bg); border-radius: 6px; font-size: 10px; p=
+adding: 3px 6px; color: var(--gray-3); font-weight: 700; }
+
+.day-header th { padding: 4px 2px; font-size: 10px; font-weight: 700; color=
+: var(--gray-3); text-align: center; border-bottom: 2px solid var(--gray-1)=
+; }
+
+.day-num { font-size: 11px; font-weight: 800; color: var(--gray-4); }
+
+.day-name { font-size: 9px; color: var(--gray-2); }
+
+.weekend { background: var(--orange-light) !important; }
+
+.day-header th.weekend .day-num { color: var(--orange); }
+
+.day-header th.weekend .day-name { color: var(--orange-mid); }
+
+.habit-name-col { min-width: 170px; padding: 0px 10px; font-size: 13px; fon=
+t-weight: 600; color: var(--gray-4); text-align: right; border-left: 2px so=
+lid var(--gray-1); }
+
+.name-wrap { display: flex; align-items: center; gap: 6px; justify-content:=
+ flex-end; }
+
+.name-text { white-space: nowrap; overflow: hidden; text-overflow: ellipsis=
+; max-width: 130px; }
+
+.btn-habit-edit, .btn-habit-del { width: 24px; height: 24px; border-radius:=
+ 6px; border-width: medium; border-style: none; border-color: currentcolor;=
+ border-image: none; cursor: pointer; font-size: 12px; display: none; align=
+-items: center; justify-content: center; flex-shrink: 0; transition: 0.15s;=
+ }
+
+.btn-habit-edit { background: var(--orange-light); color: var(--orange); }
+
+.btn-habit-edit:hover { background: var(--orange); color: white; }
+
+.btn-habit-del { background: var(--red-light); color: var(--red); }
+
+.btn-habit-del:hover { background: var(--red); color: white; }
+
+table.edit-on .btn-habit-edit, table.edit-on .btn-habit-del { display: flex=
+; }
+
+.habit-row { transition: background 0.15s; }
+
+.habit-row:hover { background: var(--bg); }
+
+.habit-row td { border-bottom: 1px solid var(--gray-1); height: 40px; }
+
+.check-cell { width: 30px; text-align: center; cursor: pointer; user-select=
+: none; transition: background 0.15s; }
+
+.check-cell:hover { background: var(--green-light) !important; }
+
+.check-box { width: 22px; height: 22px; border: 2px solid var(--gray-2); bo=
+rder-radius: 6px; margin: 0px auto; display: flex; align-items: center; jus=
+tify-content: center; transition: 0.18s cubic-bezier(0.34, 1.56, 0.64, 1); =
+background: white; font-size: 14px; color: transparent; }
+
+.check-cell.done .check-box { background: var(--green); border-color: var(-=
+-green); color: white; transform: scale(1.1); box-shadow: rgba(61, 170, 107=
+, 0.35) 0px 2px 8px; }
+
+.check-cell.done { background: var(--green-light) !important; }
+
+.check-cell.weekend-cell { background: var(--orange-light); }
+
+.check-cell.weekend-cell:hover { background: rgb(248, 221, 200) !important;=
+ }
+
+.stats-row td { padding: 4px 2px; text-align: center; font-size: 10px; font=
+-weight: 700; border-bottom-width: medium; border-bottom-style: none; borde=
+r-bottom-color: currentcolor; }
+
+.stats-row.pct td { color: var(--gray-3); background: var(--bg); font-size:=
+ 9px; }
+
+.stats-row.done-row td { color: var(--green-dark); background: var(--green-=
+light); }
+
+.stats-row.undone-row td { color: var(--red); background: var(--red-light);=
+ }
+
+.stat-label-cell { font-size: 11px; font-weight: 700; text-align: right; pa=
+dding: 6px 12px; border-left: 2px solid var(--gray-1); white-space: nowrap;=
+ }
+
+.circle-row td { padding: 6px 2px; background: rgb(250, 250, 248); border-b=
+ottom: 2px solid var(--gray-1); }
+
+.day-circle-wrap { display: flex; flex-direction: column; align-items: cent=
+er; gap: 2px; cursor: default; }
+
+.day-circle-svg { display: block; }
+
+.day-circle-pct { font-size: 8px; font-weight: 800; color: var(--gray-3); l=
+ine-height: 1; }
+
+.analysis-panel { background: white; border-radius: 20px; box-shadow: rgba(=
+0, 0, 0, 0.08) 0px 2px 16px; padding: 20px; margin-bottom: 20px; }
+
+.panel-title { font-size: 15px; font-weight: 800; color: var(--gray-4); mar=
+gin-bottom: 16px; padding-bottom: 10px; border-bottom: 2px solid var(--gray=
+-1); }
+
+.habit-analysis-row { display: flex; align-items: center; gap: 12px; paddin=
+g: 8px 0px; border-bottom: 1px solid var(--gray-1); }
+
+.habit-analysis-row:last-child { border-bottom-width: medium; border-bottom=
+-style: none; border-bottom-color: currentcolor; }
+
+.ha-name { font-size: 12px; font-weight: 600; min-width: 150px; text-align:=
+ right; }
+
+.ha-bar-wrap { flex: 1 1 0%; background: var(--gray-1); border-radius: 20px=
+; height: 10px; overflow: hidden; }
+
+.ha-bar { height: 100%; border-radius: 20px; transition: width 0.4s; }
+
+.ha-count { font-size: 12px; font-weight: 700; color: var(--green-dark); mi=
+n-width: 40px; text-align: center; }
+
+.ha-pct { font-size: 11px; color: var(--gray-3); min-width: 36px; text-alig=
+n: center; }
+
+.mental-section { background: white; border-radius: 20px; box-shadow: rgba(=
+0, 0, 0, 0.08) 0px 2px 16px; padding: 20px; margin-bottom: 20px; }
+
+.mental-row { display: flex; align-items: center; gap: 10px; margin-bottom:=
+ 12px; }
+
+.mental-label { font-size: 12px; font-weight: 700; min-width: 110px; text-a=
+lign: right; color: var(--gray-4); }
+
+.mental-days { display: flex; gap: 4px; flex-wrap: wrap; flex: 1 1 0%; }
+
+.mental-input { width: 32px; height: 32px; border: 1px solid var(--gray-1);=
+ border-radius: 8px; text-align: center; font-family: Tajawal, sans-serif; =
+font-size: 12px; font-weight: 700; color: var(--purple); background: var(--=
+purple-light); outline: none; transition: 0.15s; }
+
+.mental-input:focus { border-color: var(--purple); box-shadow: rgba(123, 79=
+, 190, 0.15) 0px 0px 0px 3px; transform: scale(1.1); }
+
+.chart-wrap { margin-top: 16px; }
+
+.chart-bars { display: flex; align-items: flex-end; gap: 3px; height: 80px;=
+ padding: 0px 4px; }
+
+.chart-bar-col { flex: 1 1 0%; display: flex; flex-direction: column; align=
+-items: center; gap: 3px; }
+
+.chart-bar { width: 100%; border-radius: 4px 4px 0px 0px; opacity: 0.75; tr=
+ansition: height 0.4s, opacity 0.2s; min-height: 2px; }
+
+.chart-bar:hover { opacity: 1; }
+
+.chart-day-label { font-size: 8px; color: var(--gray-2); font-weight: 600; =
+}
+
+.sleep-section { background: white; border-radius: 20px; box-shadow: rgba(0=
+, 0, 0, 0.08) 0px 2px 16px; padding: 20px; margin-bottom: 20px; }
+
+.sleep-inputs-row { display: flex; gap: 4px; flex-wrap: wrap; margin-bottom=
+: 16px; }
+
+.sleep-input-wrap { display: flex; flex-direction: column; align-items: cen=
+ter; gap: 3px; }
+
+.sleep-day-lbl { font-size: 9px; font-weight: 700; color: var(--gray-3); }
+
+.sleep-input { width: 34px; height: 34px; border: 1.5px solid var(--gray-1)=
+; border-radius: 8px; text-align: center; font-family: Tajawal, sans-serif;=
+ font-size: 12px; font-weight: 800; color: rgb(36, 113, 163); background: r=
+gb(235, 245, 251); outline: none; transition: 0.15s; }
+
+.sleep-input::-webkit-inner-spin-button { display: none; }
+
+.sleep-input:focus { border-color: rgb(36, 113, 163); box-shadow: rgba(36, =
+113, 163, 0.15) 0px 0px 0px 3px; transform: scale(1.08); }
+
+.sleep-input.good { background: rgb(232, 248, 240); border-color: var(--gre=
+en); color: var(--green-dark); }
+
+.sleep-input.low { background: rgb(254, 240, 240); border-color: var(--red)=
+; color: var(--red); }
+
+.sleep-input.over { background: rgb(253, 240, 232); border-color: var(--ora=
+nge); color: var(--orange); }
+
+.sleep-chart-wrap { margin-top: 6px; }
+
+.sleep-chart-title { font-size: 12px; font-weight: 700; color: var(--gray-3=
+); margin-bottom: 8px; display: flex; align-items: center; justify-content:=
+ space-between; }
+
+.sleep-avg-badge { background: rgb(235, 245, 251); border-radius: 20px; pad=
+ding: 3px 12px; font-size: 12px; font-weight: 700; color: rgb(36, 113, 163)=
+; }
+
+.sleep-chart-box { position: relative; height: 130px; border-radius: 12px; =
+background: rgb(250, 250, 248); border: 1px solid var(--gray-1); padding: 8=
+px 8px 20px 28px; }
+
+.sleep-svg { width: 100%; height: 100%; overflow: visible; }
+
+.sleep-y-axis { position: absolute; left: 4px; top: 8px; bottom: 20px; disp=
+lay: flex; flex-direction: column; justify-content: space-between; }
+
+.sleep-y-lbl { font-size: 9px; font-weight: 700; color: var(--gray-2); line=
+-height: 1; }
+
+.sleep-legend { display: flex; gap: 14px; margin-top: 10px; flex-wrap: wrap=
+; align-items: center; }
+
+.sleep-leg { display: flex; align-items: center; gap: 5px; font-size: 11px;=
+ font-weight: 600; color: var(--gray-3); }
+
+.sleep-leg-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink=
+: 0; }
+
+.popup-overlay { position: fixed; inset: 0px; background: rgba(0, 0, 0, 0.4=
+5); display: flex; align-items: center; justify-content: center; z-index: 9=
+99; padding: 20px; }
+
+.popup-box { background: white; border-radius: 18px; padding: 26px; width: =
+100%; max-width: 420px; box-shadow: rgba(0, 0, 0, 0.2) 0px 8px 40px; }
+
+.popup-title { font-size: 18px; font-weight: 800; color: var(--gray-4); mar=
+gin-bottom: 6px; text-align: center; }
+
+.popup-sub { font-size: 12px; color: var(--gray-3); text-align: center; mar=
+gin-bottom: 18px; }
+
+.popup-input { width: 100%; padding: 12px 14px; border: 1.5px solid var(--g=
+ray-1); border-radius: 10px; font-family: Tajawal, sans-serif; font-size: 1=
+5px; font-weight: 600; outline: none; text-align: right; direction: rtl; ma=
+rgin-bottom: 16px; transition: border-color 0.15s; }
+
+.popup-input:focus { border-color: var(--orange); }
+
+.popup-actions { display: flex; gap: 10px; }
+
+.btn-popup-save { flex: 1 1 0%; padding: 11px; background: var(--orange); c=
+olor: white; border-width: medium; border-style: none; border-color: curren=
+tcolor; border-image: none; border-radius: 10px; font-family: Tajawal, sans=
+-serif; font-size: 15px; font-weight: 800; cursor: pointer; }
+
+.btn-popup-save:hover { background: rgb(212, 98, 42); }
+
+.btn-popup-cancel { flex: 1 1 0%; padding: 11px; background: var(--gray-1);=
+ color: var(--gray-3); border-width: medium; border-style: none; border-col=
+or: currentcolor; border-image: none; border-radius: 10px; font-family: Taj=
+awal, sans-serif; font-size: 15px; font-weight: 700; cursor: pointer; }
+
+.btn-popup-cancel:hover { background: var(--gray-2); color: white; }
+
+.btn-sound { display: flex; align-items: center; gap: 6px; padding: 9px 18p=
+x; border-radius: 20px; border: 1.5px solid var(--gray-2); background: whit=
+e; font-family: Tajawal, sans-serif; font-size: 13px; font-weight: 700; col=
+or: var(--gray-3); cursor: pointer; transition: 0.15s; }
+
+.btn-sound:hover { border-color: var(--orange); color: var(--orange); }
+
+.sound-picker-overlay { position: fixed; inset: 0px; background: rgba(0, 0,=
+ 0, 0.45); display: flex; align-items: center; justify-content: center; z-i=
+ndex: 9998; padding: 20px; }
+
+.sound-picker-box { background: white; border-radius: 18px; padding: 24px; =
+width: 100%; max-width: 360px; box-shadow: rgba(0, 0, 0, 0.25) 0px 8px 40px=
+; direction: rtl; font-family: Tajawal, sans-serif; }
+
+.sound-picker-title { font-size: 17px; font-weight: 800; color: rgb(51, 51,=
+ 51); margin-bottom: 16px; text-align: center; }
+
+.sound-option { display: flex; align-items: center; gap: 12px; padding: 11p=
+x 14px; border-radius: 12px; border: 2px solid rgb(238, 238, 238); margin-b=
+ottom: 9px; cursor: pointer; transition: 0.15s; }
+
+.sound-option:hover { border-color: var(--orange); background: var(--orange=
+-light); }
+
+.sound-option.active { border-color: var(--orange); background: var(--orang=
+e-light); }
+
+.sound-icon { font-size: 22px; flex-shrink: 0; }
+
+.sound-info { flex: 1 1 0%; }
+
+.sound-name { font-size: 14px; font-weight: 700; color: rgb(51, 51, 51); }
+
+.sound-desc { font-size: 11px; color: rgb(170, 170, 170); margin-top: 1px; =
+}
+
+.sound-play { width: 32px; height: 32px; border-radius: 50%; border-width: =
+medium; border-style: none; border-color: currentcolor; border-image: none;=
+ background: rgb(240, 240, 240); cursor: pointer; font-size: 15px; flex-shr=
+ink: 0; transition: 0.15s; }
+
+.sound-play:hover { background: var(--orange); }
+
+.spk-actions { display: flex; gap: 10px; margin-top: 14px; }
+
+.spk-save { flex: 1 1 0%; padding: 10px; background: var(--orange); color: =
+white; border-width: medium; border-style: none; border-color: currentcolor=
+; border-image: none; border-radius: 10px; font-family: Tajawal, sans-serif=
+; font-size: 14px; font-weight: 800; cursor: pointer; }
+
+.spk-cancel { flex: 1 1 0%; padding: 10px; background: var(--gray-1); color=
+: var(--gray-3); border-width: medium; border-style: none; border-color: cu=
+rrentcolor; border-image: none; border-radius: 10px; font-family: Tajawal, =
+sans-serif; font-size: 14px; font-weight: 700; cursor: pointer; }
+
+.upload-zone { border: 2px dashed rgb(221, 221, 221); border-radius: 12px; =
+padding: 14px; text-align: center; cursor: pointer; transition: 0.2s; margi=
+n-top: 8px; display: none; }
+
+.upload-zone:hover { border-color: var(--orange); background: var(--orange-=
+light); }
+
+.upload-zone.has-file { border-color: var(--green); background: var(--green=
+-light); }
+
+.upload-zone-text { font-size: 13px; color: rgb(170, 170, 170); font-weight=
+: 600; }
+
+.upload-zone-text.ready { color: var(--green-dark); font-weight: 700; }
+
+.weekly-circles-section { background: white; border-radius: 20px; box-shado=
+w: rgba(0, 0, 0, 0.08) 0px 2px 16px; padding: 20px; margin-bottom: 20px; }
+
+.weekly-circles-row { display: flex; gap: 16px; justify-content: space-arou=
+nd; flex-wrap: wrap; margin-top: 16px; }
+
+.week-circle-wrap { display: flex; flex-direction: column; align-items: cen=
+ter; gap: 8px; }
+
+.week-circle-wrap svg { filter: drop-shadow(rgba(0, 0, 0, 0.12) 0px 3px 8px=
+); transition: transform 0.2s; }
+
+.week-circle-wrap:hover svg { transform: scale(1.05); }
+
+.week-circle-name { font-size: 12px; font-weight: 800; color: var(--gray-4)=
+; }
+
+.week-circle-days { font-size: 10px; color: var(--gray-3); font-weight: 500=
+; }
+
+.monthly-circle-wrap { display: flex; flex-direction: column; align-items: =
+center; gap: 4px; }
+
+.monthly-circle-wrap svg { filter: drop-shadow(rgba(0, 0, 0, 0.18) 0px 4px =
+12px); }
+
+.monthly-circle-lbl { color: rgba(255, 255, 255, 0.8); font-size: 12px; fon=
+t-weight: 600; }
+------MultipartBoundary--HHo4nauaptE5qi0E7WqzfRBqAX4JrR1G9o2X0p0wNi------
